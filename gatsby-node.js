@@ -2,8 +2,12 @@ const _ = require("lodash");
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 
+const redirects = [
+  {fromPath: '/templates', toPath: '/files/emnlp2020-templates.zip'}
+]
+
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
 
   return graphql(`
     {
@@ -15,7 +19,6 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              path
               templateKey
             }
           }
@@ -28,15 +31,12 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors);
     }
 
+    redirects.forEach(r => createRedirect(r));
+
     // Filter out the footer, navbar, and meetups so we don't create pages for those
     const postOrPage = result.data.allMarkdownRemark.edges.filter(edge => {
-      if (edge.node.frontmatter.templateKey === "navbar") {
-        return false;
-      } else if (edge.node.frontmatter.templateKey === "footer") {
-        return false;
-      } else {
-        return !Boolean(edge.node.fields.slug.match(/^\/meetups\/.*$/));
-      }
+      const { templateKey } = edge.node.frontmatter;
+      return (templateKey !== "navbar" && templateKey !== "footer");
     });
 
     postOrPage.forEach(edge => {
@@ -45,7 +45,7 @@ exports.createPages = ({ actions, graphql }) => {
         pathName = "/";
         component = path.resolve(`src/pages/index.js`);
       } else {
-        pathName = edge.node.frontmatter.path || edge.node.fields.slug;
+        pathName = edge.node.fields.slug;
         component = path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`);
       }
       const id = edge.node.id;
@@ -73,3 +73,25 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     });
   }
 };
+
+
+exports.sourceNodes = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+    type Sponsor implements Node {
+      name: String!
+      longName: String
+      link: String!
+      image: String!
+      level: String!
+    }
+
+    type SiteSiteMetadata implements Node {
+      title: String!
+      siteUrl: String!
+      sponsors: [Sponsor!]!
+      sponsorLevels: [String!]
+    }
+  `
+  createTypes(typeDefs)
+}

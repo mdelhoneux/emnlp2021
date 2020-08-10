@@ -14,9 +14,9 @@ const htmlifyMarkdown = (markdownText) => {
 
 module.exports = {
   siteMetadata: {
-    title: "EMNLP 2020 Conference",
-    description: "2020 Conference on Empirical Methods in Natural Language Processing",
-    siteUrl: "https://2020.emnlp.org"
+    title: "EMNLP 2021 Conference",
+    description: "2021 Conference on Empirical Methods in Natural Language Processing",
+    siteUrl: "https://2021.emnlp.org"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -117,7 +117,7 @@ module.exports = {
               }
             `,
             output: "/blog/rss.xml",
-            title: "EMNLP 2020 Blog",
+            title: "EMNLP 2021 Blog",
           },
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
@@ -151,7 +151,7 @@ module.exports = {
               }
             `,
             output: "/news/rss.xml",
-            title: "EMNLP 2020 Latest News",
+            title: "EMNLP 2021 Latest News",
           },
         ],
       },

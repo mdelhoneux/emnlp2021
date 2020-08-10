@@ -2,21 +2,12 @@
 @import "./mixins.scss";
 
 .header {
-  height: 450px;
-  background-color: $background-medium;
-
-  @include respond-to("medium") {
-    height: 575px;
-  }
+  background-color: $background-light;
+  padding: 50px 30px;
 
   &-container {
-    display: flex;
     flex-direction: column;
     height: 100%;
-    align-items: center;
-    justify-content: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
 
     @include respond-to("small") {
       flex-direction: row;
@@ -27,6 +18,7 @@
   &-image {
     height: 150px;
     margin-bottom: 30px;
+    margin-right: 20px;
 
     @include respond-to("small") {
       height: 200px;
@@ -38,190 +30,159 @@
     }
   }
 
-  &-tagline {
-    @include xlarge-font();
-    color: $body-light;
-    width: 400px;
-    text-align: center;
-    cursor: default;
+  &-text {
+    color: white;
+    background-image: url("/img/barcelo-bavaro-1.png");
+    background-size: cover;
+    background-color: black;
+    background-position: top;
+    background-repeat: no-repeat;
+
+    width: 80%;
+    padding: 20px;
+    margin: 0px auto;
 
     @include respond-to("small") {
-      flex-basis: 430px;
-      text-align: left;
-      width: 50%;
+      text-align: right;
       align-items: flex-start;
     }
 
-    @include respond-to("medium") {
-      flex-basis: 500px;
-    }
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.65);
   }
 
-  &-taglinePart {
-    display: inline;
-    @include title-link-border();
-  }
-}
-
-.upcomingMeetup {
-  color: $body-dark;
-  @include medium-font;
-
-  &-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  &-name {
+    @include xlarge-font();
+    font-weight: bold;
+    color: rgb(157, 180, 204);
   }
 
-  &-title {
-    @include large-font;
-    margin-bottom: 30px;
-  }
-
-  &-detail {
-    text-align: center;
-
-    &--date {
-      margin-bottom: 10px;
-    }
-  }
-
-  &-detailLabel {
-    font-weight: 400;
-  }
-
-  &-presenters {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 40px 0;
-  }
-
-  &-presenter {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 300px;
-    max-width: 100%;
-    padding: 20px;
-    border: 3px solid rgba($highlight, 0.2);
-    margin: 20px;
-  }
-
-  &-presenterImage {
-    height: 130px;
-    border-radius: 100px;
-    margin-bottom: 10px;
-  }
-
-  &-presenterName {
-    font-weight: 400;
-    margin-bottom: 5px;
-  }
-
-  &-presenterPresentationTitle {
-    @include small-font;
-    font-weight: 400;
-    align-self: flex-start;
-    margin-bottom: 5px;
-  }
-
-  &-presenterDescription {
-    @include small-font;
-  }
-
-  &-mapWrapper {
-    position: relative;
-    height: 450px;
-    width: 100%;
-  }
-
-  &-mapNote {
-    text-align: center;
-    margin-bottom: 10px;
-    @include small-font();
-  }
-}
-
-.ctaBlock {
-  position: relative;
-  color: $body-light;
-
-  @include respond-to("medium") {
-    height: 300px;
+  &-extra-info {
+    margin-top: 1rem;
+    font-style: italic;
     @include medium-font();
   }
 
-  &-pattern {
-    display: flex;
-    position: relative;
-
-    @include respond-to("medium") {
-      position: absolute;
-      align-items: flex-end;
-      transition: box-shadow $transition-duration cubic-bezier(0.4, 0, 0.3, 1);
-    }
-
-    &--first {
-      background-color: $highlight-secondary;
-
-      @include respond-to("medium") {
-        justify-content: flex-end;
-        top: 0;
-        left: 0;
-        width: 50%;
-        height: 100%;
-      }
-    }
-    &--second {
-      background-color: $background-medium;
-
-      @include respond-to("medium") {
-        bottom: 0;
-        right: 0;
-        width: 50%;
-        height: 100%;
-      }
-    }
-
-    &:hover {
-      z-index: 10;
-      box-shadow: 0 4px 15px 5px rgba(0, 0, 0, 0.25);
-    }
-  }
-
-  &-container {
-    height: 100%;
-    position: relative;
-  }
-
-  &-cta {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 40px;
-    height: 200px;
-
-    @include respond-to("medium") {
-      position: absolute;
-      height: unset;
-      width: 100vw / 2;
-    }
-
-    @include respond-to("large") {
-      width: $container-width / 2;
-    }
-  }
-
-  &-ctaHeading {
+  &-tagline {
     @include large-font();
+    margin-top: 1rem;
+  }
+}
+
+.news {
+  &-text, &-text > p {
+    display: inline;
+  }
+}
+
+.single-updates-section, .key-dates-section {
+  margin: auto;
+
+  > h4 { 
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;    
+  }
+}
+
+.single-updates-section {
+  td {
+    padding: 2px 4px;
   }
 
-  &-ctaDescription {
-    @include medium-font();
-
-    @include respond-to("medium") {
-      margin-bottom: 40px;
-    }
+  h4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
   }
+
+  p.all-posts {
+    font-style: italic;
+    text-align: right;
+  }
+}
+
+dl.key-dates-listing {
+  dt {
+    margin-top: 0.25rem;
+  }
+
+  dd {
+    margin-bottom: 0.25rem;
+    margin-left: 0.25rem;
+  }
+  margin-bottom: 1rem;
+}
+
+.key-dates-section {
+  &.card {
+    padding: 0;
+  }
+
+  > h4 {
+    background-color: $background-dark;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+    display: block;
+  }
+
+  .key-dates-card-content {
+    padding: 0.75rem;
+  }
+}
+
+.key-info-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: $page-content-width;
+  margin: auto;
+}
+
+.updates-section {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 60%;
+  flex-grow: 1;
+  justify-content: space-around;
+}
+
+.key-dates-section-wrapper {
+  flex-basis: 40%;
+  flex-grow: 1;
+  min-width: $page-content-width * 0.4;
+}
+
+.updates-section-wrapper, .key-dates-section-wrapper {
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+  p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.date {
+  margin-right: 1rem;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.extra-date-info {
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.key-date-formerly {
+  font-style: italic;
+  opacity: 0.8;
 }

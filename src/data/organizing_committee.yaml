@@ -1,0 +1,68 @@
+- title: General Chair
+  members:
+  - name: Marie-Francine Moens
+    organization: KU Leuven
+- title: Program Co-chairs
+  members:
+  - name: Xuanjing Huang
+    organization: Fudan University
+  - name: Lucia Specia
+    organization: University of Sheffield
+  - name: Scott Yih
+    organization: Facebook
+- title: Workshop Chairs
+  members:
+  - name: Parisa Kordjamshidi
+    organization: Michigan State University
+  - name: Minlie Huang
+    organization: Tsinghua University
+- title: Tutorial Chairs
+  members:
+  - name: Jing Jiang
+    organization: Singapore Management University
+  - name: Ivan Vulic
+    organization: University of Cambridge
+- title: Demonstration Chairs
+  members:
+  - name: Heike Adel
+    organization: Bosch Center for Artificial Intelligence
+  - name: Shuming Shi
+    organization: Tencent AI lab
+- title: Publication Chairs
+  members:
+  - name: Loic Barrault
+    organization: University of Sheffield
+  - name: Greg Durrett
+    organization: UT Austin
+  - name: Yansong Feng
+    organization: Peking University
+- title: Publicity Chairs
+  members:
+  - name: Els Lefever 
+    organization: Ghent University
+- title: Publicity Chairs
+  members:
+  - name: Raffaella Bernardi
+    organization: University of Trento
+  - name: Preethi Jyothi
+    organization: IIT Bombay
+- title: Website Chair
+  members:
+  - name: Miryam de Lhoneux
+    organization: University of Copenhagen
+- title: Website support 
+  members:
+  - name: Mingxiao Li
+    organization: KU Leuven
+- title: Virtual Infrastructure Chairs
+  members:
+  - name: Zhaopeng Tu
+    organization: Tencent AI lab
+  - name: Dani Yogatama
+    organization: Google DeepMind
+- title: Local Chairs
+  members:
+    - name: TBD
+- title: Sponsorship Chair
+  members:
+      - name: TBD

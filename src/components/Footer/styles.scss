@@ -2,14 +2,18 @@
 @import "../../styles/mixins";
 
 .footer {
-  background-color: $background-dark;
+  background-color: $background-xlight;
   @include medium-font;
-  color: $body-light;
-  padding: 80px 20px;
+  color: $body-dark;
+  padding: 40px 20px;
+  height: $footer-height;
 
   @include respond-to("small") {
-    padding: 40px 20px;
-    height: $footer-height;
+    padding: 20px 20px;
+  }
+
+  ul {
+    list-style: none;
   }
 
   &-container {
@@ -36,21 +40,32 @@
   }
 
   &-about {
-    text-align: center;
+    display: flex;
+    margin: 0.5rem auto;
+    width: 85%;
+    max-width: (0.75 * $container-width);
 
     @include respond-to("small") {
       text-align: left;
+      margin-right: 8rem;
     }
   }
 
   &-aboutTitleImg {
     max-height: 60px;
+    max-width: 120px;
     height: auto;
     margin-bottom: 10px;
   }
 
   &-aboutDescription {
     @include medium-font();
+    text-align: right;
+    flex-grow: 5;
+  }
+
+  &-aboutTitle {
+    display: block;
   }
 
   &-socialMenu {
@@ -69,7 +84,7 @@
     @include medium-font;
     font-weight: 400;
     text-decoration: none;
-    color: $body-light;
+    color: $body-dark;
     display: flex;
     align-items: center;
   }
@@ -95,4 +110,35 @@
     margin-top: auto;
     width: 100%;
   }
+
+  &-sponsor-level {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+  }
+
+  &-sponsors-at-level {
+    font-size: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  &-single-sponsor {
+    margin-right: 1.5rem;
+    white-space: nowrap;
+  }
+
+  &-sponsors {
+    padding-top: 1rem;
+    text-align: center;
+
+    @include respond-to("small") {
+      text-align: left;
+    }
+  }
+  
 }
+

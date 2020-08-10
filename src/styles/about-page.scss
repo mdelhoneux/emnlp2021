@@ -13,6 +13,10 @@
       flex-direction: row;
       justify-content: space-around;
     }
+
+    > div {
+      max-width: $page-content-width;
+    }
   }
 
   &-titleWrapper {
@@ -20,13 +24,19 @@
     margin-right: 20px;
     text-align: center;
     flex-shrink: 0;
-
+ 
     @include respond-to("medium") {
-      flex-basis: 450px;
-      text-align: left;
+      // flex-basis: 450px;
+      text-align: center;
       margin-bottom: 0;
       justify-content: space-around;
     }
+  }
+
+  section.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   &-title {
@@ -45,38 +55,23 @@
   }
 
   &-description {
-    padding: 0 20px 60px;
-    text-align: justify;
+    padding: 0 20px 30px;
     @include medium-font();
+
+    max-width: 900px;
 
     @include respond-to("small") {
       text-align: left;
     }
 
     h2 {
-      text-align: center;
       margin-bottom: 20px;
-      @include large-font();
+      @include medlarge-font();
     }
-  }
-}
 
-.developerGroups {
-  background-color: $background-medium;
-  color: $body-light;
-  @include medium-font();
-
-  h2 {
-    @include large-font();
-    margin-bottom: 40px;
-  }
-
-  ul li {
-    margin-bottom: 20px;
-  }
-
-  a {
-    @include link-border();
+    h2, h3, h4, h5 {
+      margin-top: 2rem;
+    }
   }
 }
 
@@ -95,27 +90,32 @@
 .organizers {
   @include medium-font();
 
+  background-color: $background-medium;
+
   &-title {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     @include large-font();
 
     @include respond-to("small") {
-      margin-bottom: 80px;
+      margin-bottom: 40px;
     }
   }
 
   &-list {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
   }
 
   &-listItem {
-    display: flex;
-    flex-direction: column;
     align-items: center;
     margin: 0 10px;
+    list-style: none;
+    line-height: 110%;
+    margin: 10px;
+  }
+
+  &-listItemName {
+    margin-right: 1rem;
   }
 
   &-listItemImage {
@@ -130,5 +130,54 @@
 
   &-listItemName {
     font-weight: 400;
+  }
+
+  &-role {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: bold;
+    display: block;
+  }
+}
+
+.default-content {
+  padding: 0 20px 30px;
+
+  max-width: $page-content-width;
+
+  @include respond-to("small") {
+    text-align: left;
+  }
+
+  h2 {
+    margin-bottom: 20px;
+    @include medium-font();
+  }
+
+  h2, h3, h4, h5 {
+    margin-top: 2rem;
+    font-weight: bold;
+  }
+}
+
+.post-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: -30px;
+  padding-top: 30px;
+  
+  .post-date {
+    text-align: right;
+
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #666;
+  }
+}
+
+.blog-posts {
+  .rss {
+    float: right;
   }
 }

@@ -1,41 +1,42 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
-mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: Wakanda JavaScript developer presenting at a meetup.
-gallery:
-  - image: /img/neonbrand-509131-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/jakob-dalbjorn-730178-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/annie-spratt-608001-unsplash.jpg
-    imageAlt: Wakanda developers working together at a table.
-developerGroups: |-
-  ## Other Wakanda Developer Groups
-
-  * [React & React Native Meetup](https://www.google.com)
-  * [Python Meetup](https://www.google.com)
-  * [Google Developer Meetup](https://www.google.com)
-  * [Vue.js Meetup](https://www.google.com)
-  * [Ruby Meetup](https://www.google.com)
+title: About the EMNLP 2021 Conference
 organizers:
-  title: Group Organizers
+  title: Organisers
   gallery:
-    - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
-      name: Tom Cruise
-    - image: /img/organizer-2.jpg
-      imageAlt: Tom Hanks
-      name: Tom Hanks
+    - image: ""
+      imageAlt: Marie-Francine Moens
+      name: Marie-Francine Moens
+      organization: KULeuven
+      role: General Chair
+    - image: ""
+      imageAlt: Xuanjing Huang
+      name: Xuanjing Huang
+      organization: 
+      role: Program Co-Chair
+    - image: ""
+      name: Lucia Specia
+      imageAlt: Lucia Specia
+      organization: 
+      role: Program Co-Chair
+    - image: ""
+      name: Scott Yih
+      role: Program Co-Chair
+      organization: 
 seo:
-  browserTitle: About | JavaScript Wakanda
-  description: >-
-    JavaScript Wakanda is a meetup group that holds monthly meetups where
-    JavaScript developers get together for presentations and to meet others in
-    the community.
-  title: About | JS Wakanda
+  browserTitle: About | EMNLP 2021
+  description: 
+  title: About | EMNLP 2021
 ---
-## Sharing Ideas and Meeting Others
+The 2021 Conference on Empirical Methods in Natural Language Processing will likely be held in the Dominican Republic.
 
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+### Key Dates
+<!--
+* Anonymity period begins: April 11, 2020
+* Submissions due (long and short): May 11, 2020
+* Author response period: July 8–14, 2020
+* Acceptance notification:  August 8
+* Camera-ready papers due: August 28, 2020
+* Workshops and tutorials: November 11-12, 2020.
+-->
+    * Main conference: November 7–11, 2021

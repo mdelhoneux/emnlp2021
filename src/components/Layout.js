@@ -6,15 +6,16 @@ import "../styles";
 import { Navbar } from "../components/Navbar";
 import { Footer } from "../components/Footer";
 
-const TemplateWrapper = ({ footerData = null, navbarData = null, children }) => (
+const TemplateWrapper = ({ footerData = null, navbarData = null, site = null, children }) => (
   <div>
     <Helmet>
       <html lang="en" />
-      <meta name="keywords" content="montreal, javascript, programming, meetup" />
+      <meta name="keywords" content="workshop nlp natural language processing australia australasian australian sydney conference alta altw 2019" />
+      <meta name="google-site-verification" content="oHsm8TfiBgX6DjW9BTIOFEfT80pknaoqfoAi0G7bmS4" />
     </Helmet>
     <Navbar data={navbarData} />
     <main>{children}</main>
-    <Footer data={footerData} />
+    <Footer data={footerData} site={site} />
   </div>
 );
 
@@ -28,13 +29,8 @@ export const query = graphql`
             logoImage {
               image
               imageAlt
-              tagline
-            }
-            socialLinks {
-              image
-              imageAlt
-              label
-              linkURL
+              taglines
+              orgLink
             }
           }
         }
@@ -53,6 +49,7 @@ export const query = graphql`
               label
               linkType
               linkURL
+              longLabel
             }
           }
         }

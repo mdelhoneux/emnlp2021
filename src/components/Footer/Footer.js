@@ -1,8 +1,8 @@
 import React from "react";
 import "./styles.scss";
 
-export const FooterTemplate = ({ data }) => {
-  const { logoImage, socialLinks } = data;
+export const FooterTemplate = ({ frontmatter, site: _ }) => {
+  const { logoImage } = frontmatter;
 
   return (
     <nav className="footer">
@@ -10,41 +10,17 @@ export const FooterTemplate = ({ data }) => {
         <div className="footer-top">
           <div className="footer-about">
             <h4 className="footer-aboutTitle">
-              <img
-                className="footer-aboutTitleImg"
-                src={logoImage.image}
-                alt={logoImage.imageAlt}
-              />
+              <a href={logoImage.orgLink}>
+                <img
+                  className="footer-aboutTitleImg"
+                  src={logoImage.image}
+                  alt={logoImage.imageAlt}
+                />
+              </a>
             </h4>
-            <p className="footer-aboutDescription">{logoImage.tagline}</p>
-          </div>
-          {socialLinks.length > 0 && (
-            <ul className="footer-socialMenu">
-              {socialLinks.map(socialLink => (
-                <li key={socialLink.linkURL} className="footer-socialMenuItem">
-                  <a
-                    className="footer-socialLink"
-                    href={socialLink.linkURL}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      className="footer-socialLinkIcon"
-                      src={socialLink.image}
-                      alt={socialLink.imageAlt}
-                    />
-                    {socialLink.label}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-        <div className="footer-bottom">
-          <div className="footer-flag">
-            <span role="img" aria-label="Made in Canada">
-              🇨🇦
-            </span>
+            <div className="footer-aboutDescription">
+              {logoImage.taglines.map((tl, idx) => <p key={idx}>{tl}</p>)}
+            </div>
           </div>
         </div>
       </div>
@@ -52,12 +28,11 @@ export const FooterTemplate = ({ data }) => {
   );
 };
 
-const Footer = props => {
-  if (!props.data) {
+const Footer = ({data, site}) => {
+  if (!data) 
     return null;
-  }
-  const data = props.data.edges[0].node.frontmatter;
-  return <FooterTemplate data={data} />;
+  const frontmatter = data.edges[0].node.frontmatter;
+  return <FooterTemplate frontmatter={frontmatter} site={site} />;
 };
 
 export { Footer };

@@ -1,102 +1,140 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Helmet from "react-helmet";
-import isAfter from "date-fns/is_after";
+import PageHelmet from "../components/PageHelmet";
+import RssIcon from "../components/RssIcon";
+import ReactMarkdown from "react-markdown";
+import "../styles/sponsors-page.scss";
+import { Link } from "gatsby";
 
 import Layout from "../components/Layout";
-import Map from "../components/Map";
-import HeadshotPlaceholder from "../img/headshot-placeholder.svg";
-import CustomLink from "../components/CustomLink";
 import "../styles/home.scss";
+import HTMLContent from "../components/Content";
 
-export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
-  const presenters = upcomingMeetup && upcomingMeetup.presenters;
-  const latitude = upcomingMeetup && parseFloat(upcomingMeetup.location.mapsLatitude);
-  const longitude = upcomingMeetup && parseFloat(upcomingMeetup.location.mapsLongitude);
+const MAX_BLOG_POSTS = 4
+const MAX_NEWS_ITEMS = 5
+
+const NewsItem = ({ date, text }) => (
+  <tr className="news-item">
+    <td className="date">{date}</td>
+    <td><ReactMarkdown className="news-text" source={text}/></td>
+  </tr>
+)
+
+const BlogPostSummary = ({ date, title, link }) => (
+  <tr className="blog-item">
+    <td className="date">{date}</td>
+    <td className="blog-text"><Link to={link}>{title}</Link></td>
+  </tr>
+)
+
+const BlogPosts = ({ items }) => (
+  <div className="blog-post-list-wrapper updates-section-wrapper">
+    <section className="blog-post-list-section single-updates-section">
+      <h4>Latest Blog Posts <RssIcon link="/blog/rss.xml"/></h4>
+      <table className="blog-section-list">
+        <tbody>
+          {items.slice(0, MAX_BLOG_POSTS).map(i => <BlogPostSummary {...i} key={i.text}></BlogPostSummary>)}
+        </tbody>
+      </table>
+      <p className="all-posts"><Link to="/blog">View all blog posts</Link></p>
+    </section>
+  </div>
+)
+
+const NewsSection = ({ items }) => (
+  <div className="news-section-wrapper updates-section-wrapper">
+    <section className="news-section single-updates-section">
+      <h4>Latest News <RssIcon link="/news/rss.xml"/></h4>
+      <table className="news-section-list">
+        <tbody>
+          {items.filter((i, idx) => idx < MAX_NEWS_ITEMS || i.persist).map(i => <NewsItem {...i} key={i.text}/>)}
+        </tbody>
+      </table>
+    </section>
+  </div>
+)
+
+const renderableDateRange = (dateStart, dateEnd, delim = ' – ') => {
+  if (!dateEnd)
+    return dateStart;
+  let commonPrefixLen = 0;
+  const final = Math.max(dateStart.length, dateEnd.length);
+  for (let i = 0; i < final; i++) {
+    if (dateStart.charAt(i) === dateEnd.charAt(i))
+      commonPrefixLen = i;
+    else
+      break;
+  }
+  let commonSuffixLen = 0;
+  for (let i = 0; i < final ; i++) {
+    if (dateStart.charAt(dateStart.length - i) === dateEnd.charAt(dateEnd.length - i))
+      commonSuffixLen = i;
+    else
+      break;
+  }
+  const prefix = dateStart.substr(0, commonPrefixLen);
+  const suffix = dateStart.substr(dateStart.length - commonSuffixLen);
+  const startUniquePart = dateStart.substr(commonPrefixLen, dateStart.length - commonSuffixLen - commonPrefixLen);
+  const endUniquePart = dateEnd.substr(commonPrefixLen, dateEnd.length - commonSuffixLen - commonPrefixLen);
+  return `${prefix}${startUniquePart}${delim}${endUniquePart}${suffix}`;
+}
+
+const KeyDateListing = ({ date, dateEnd, event, formerly }) => (
+  <>
+    <dt className="date">{renderableDateRange(date, dateEnd)}</dt>
+    <dd className="key-date-entry">
+      <ReactMarkdown renderers={{paragraph: 'span'}} source={event}/>
+      { formerly ? <span className="key-date-formerly"> (was: {formerly})</span>: null }
+    </dd>
+  </>
+);
+
+const KeyDates = ({ items: dates }) => (
+  <div className="key-dates-section-wrapper">
+    <section className="key-dates-section card">
+      <h4>Key Dates</h4>
+        <div className="key-dates-card-content">
+          <dl className="key-dates-listing">
+            {dates.map(d => <KeyDateListing {...d} key={d.event}/>)}
+          </dl>
+          <span className="extra-date-info">
+            <p>See the <a href="/call-for-papers">call for papers</a> for further important details about the submission process.</p>
+            <p>All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).</p>
+          </span>
+      </div>
+    </section>
+  </div>
+);
+
+
+export const HomePageTemplate = ({ home, blogPosts }) => {
   return (
     <>
       <section className="header">
-        <div className="header-container  container">
-          {home.headerImage && <img className="header-image" src={home.headerImage.image} alt={home.headerImage.imageAlt} />}
-          <h3 className="header-tagline">
-            <span className="header-taglinePart">{home.title}</span>
-          </h3>
+        <div className="header-container container">
+          {home.headerImage && 
+            <img className="header-image" src={home.headerImage.image} alt={home.headerImage.imageAlt} />
+          }
+          <div className="header-text" title="Image Credit: NASA">
+            <h3 className="header-name">{home.title}</h3>
+            <h4 className="header-tagline">
+              <HTMLContent className="header-taglinePart" content={home.description}/>
+            </h4>
+            <div className="header-extra-info">
+              {home.extraInfo.map((ei, idx) => <p key={idx}>{ei}</p>)}
+            </div>
+          </div>
         </div>
       </section>
-      <section className="upcomingMeetup  section">
-        <div className="upcomingMeetup-container  container">
-          <h2 className="upcomingMeetup-title">{home.upcomingMeetupHeading}</h2>
-          {upcomingMeetup ? (
-            <>
-              <p className="upcomingMeetup-detail  upcomingMeetup-detail--date">
-                <span className="upcomingMeetup-detailLabel">Date: </span>
-                {upcomingMeetup.formattedDate}
-              </p>
-              <p className="upcomingMeetup-detail  upcomingMeetup-detail--location">
-                <span className="upcomingMeetup-detailLabel">Location: </span>
-                {upcomingMeetup.location.name}
-              </p>
-              {presenters.length > 0 && (
-                <div className="upcomingMeetup-presenters">
-                  {presenters.map(presenter => (
-                    <div className="upcomingMeetup-presenter" key={presenter.text}>
-                      <img
-                        className="upcomingMeetup-presenterImage"
-                        src={presenter.image ? presenter.image : HeadshotPlaceholder}
-                        alt={presenter.image ? presenter.name : "Default headshot placeholder"}
-                      />
-                      <span className="upcomingMeetup-presenterName">{presenter.name}</span>
-                      <span className="upcomingMeetup-presenterPresentationTitle">
-                        {presenter.presentationTitle}
-                      </span>
-                      <p className="upcomingMeetup-presenterDescription">{presenter.text}</p>
-                    </div>
-                  ))}
-                </div>
-              )}
-              <p className="upcomingMeetup-mapNote">{home.mapsNote}</p>
-              <div className="upcomingMeetup-mapWrapper">
-                <Map
-                  isMarkerShown
-                  googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTxauB_VWpo0_8hWELlE3pN59uuHzxD-8&v=3.exp&libraries=geometry,drawing,places"
-                  loadingElement={<div style={{ height: `100%` }} />}
-                  containerElement={<div style={{ height: `100%` }} />}
-                  mapElement={<div style={{ height: `100%` }} />}
-                  link={upcomingMeetup.location.mapsLink}
-                  latitude={latitude}
-                  longitude={longitude}
-                />
-              </div>
-            </>
-          ) : (
-            <p className="upcomingMeetup-detail">{home.noUpcomingMeetupText}</p>
-          )}
+      <section className="key-info-content">
+      <KeyDates items={home.keyDates}/>
+        <div className="updates-section">
+          <BlogPosts items={blogPosts}/>
+          <NewsSection items={home.newsItems}/>
         </div>
       </section>
-      <section className="ctaBlock">
-        <CustomLink
-          linkType={home.callToActions.firstCTA.linkType}
-          linkURL={home.callToActions.firstCTA.linkURL}
-          className="ctaBlock-pattern  ctaBlock-pattern--first"
-        >
-          <div className="ctaBlock-cta">
-            <span className="ctaBlock-ctaHeading">{home.callToActions.firstCTA.heading}</span>
-            <p className="ctaBlock-ctaDescription">{home.callToActions.firstCTA.subHeading}</p>
-          </div>
-        </CustomLink>
-        <CustomLink
-          linkType={home.callToActions.secondCTA.linkType}
-          linkURL={home.callToActions.secondCTA.linkURL}
-          className="ctaBlock-pattern  ctaBlock-pattern--second"
-        >
-          <div className="ctaBlock-cta">
-            <span className="ctaBlock-ctaHeading">{home.callToActions.secondCTA.heading}</span>
-            <p className="ctaBlock-ctaDescription">{home.callToActions.secondCTA.subHeading}</p>
-          </div>
-        </CustomLink>
-      </section>
-    </>
+     </>
   );
 };
 
@@ -104,31 +142,20 @@ class HomePage extends React.Component {
   render() {
     const { data } = this.props;
     const {
-      data: { footerData, navbarData },
+      data: { footerData, navbarData, site },
     } = this.props;
     const { frontmatter: home } = data.homePageData.edges[0].node;
-    const {
-      seo: { title: seoTitle, description: seoDescription, browserTitle },
-    } = home;
-    let upcomingMeetup = null;
-    // Find the next meetup that is closest to today
-    data.allMarkdownRemark.edges.every(item => {
-      const { frontmatter: meetup } = item.node;
-      if (isAfter(meetup.rawDate, new Date())) {
-        upcomingMeetup = meetup;
-        return true;
-      } else {
-        return false;
-      }
-    });
+    const blogPosts = data.blogPostData.edges.map(({ node }) => 
+      ({
+        link: node.fields.slug,
+        title: node.frontmatter.title,
+        date: node.frontmatter.date
+      })
+    );
     return (
-      <Layout footerData={footerData} navbarData={navbarData}>
-        <Helmet>
-          <meta name="title" content={seoTitle} />
-          <meta name="description" content={seoDescription} />
-          <title>{browserTitle}</title>
-        </Helmet>
-        <HomePageTemplate home={home} upcomingMeetup={upcomingMeetup} />
+      <Layout footerData={footerData} navbarData={navbarData} site={site}>
+        <PageHelmet page={{frontmatter: home}} />
+        <HomePageTemplate home={home} blogPosts={blogPosts} />
       </Layout>
     );
   }
@@ -146,64 +173,43 @@ export default HomePage;
 
 export const pageQuery = graphql`
   query HomePageQuery {
-    allMarkdownRemark(
-      filter: { frontmatter: { presenters: { elemMatch: { text: { ne: null } } } } }
-      sort: { order: DESC, fields: frontmatter___date }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-            formattedDate: date(formatString: "MMMM Do YYYY @ h:mm A")
-            rawDate: date
-            presenters {
-              name
-              image
-              text
-              presentationTitle
-            }
-            location {
-              mapsLatitude
-              mapsLongitude
-              mapsLink
-              name
-            }
-          }
-        }
-      }
-    }
     ...LayoutFragment
     homePageData: allMarkdownRemark(filter: { frontmatter: { templateKey: { eq: "home-page" } } }) {
       edges {
         node {
           frontmatter {
             title
-            headerImage {
-              image
-              imageAlt
-            }
-            upcomingMeetupHeading
-            noUpcomingMeetupText
-            mapsNote
-            callToActions {
-              firstCTA {
-                heading
-                subHeading
-                linkType
-                linkURL
-              }
-              secondCTA {
-                heading
-                subHeading
-                linkType
-                linkURL
-              }
-            }
+            description
+            extraInfo
             seo {
               browserTitle
               title
               description
             }
+            newsItems {
+              date(formatString: "MMMM D, YYYY")
+              text
+              persist
+            }
+            keyDates {
+              date(formatString: "MMMM D, YYYY")
+              dateEnd(formatString: "MMMM D, YYYY")
+              event
+              important
+            }
+          }
+        }
+      }
+    }
+    blogPostData: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "blog-post-page"}}}, sort: {fields: frontmatter___date, order: DESC}, limit: 3) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString:"MMMM D, YYYY")
           }
         }
       }

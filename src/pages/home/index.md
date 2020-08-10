@@ -1,28 +1,20 @@
 ---
 templateKey: home-page
-headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Upcoming Meetup
-noUpcomingMeetupText: Details to be announced.
-mapsNote: Clicking the pin opens Google Maps in a new tab.
-callToActions:
-  firstCTA:
-    heading: Past Meetups
-    linkType: internal
-    linkURL: /meetups
-    subHeading: Look at what topics were presented at past meetups.
-  secondCTA:
-    heading: Volunteer to Present
-    linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
-    subHeading: Want to present at an upcoming meetup? Contact us.
+title: EMNLP 2021
+description: '<span class="avoid-breaks">The 2021 Conference</span> <span class="avoid-breaks">on Empirical Methods</span> <span class="avoid-breaks">in Natural Language Processing</span>'
+extraInfo: 
+  - 7th – 11th November 2021
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: EMNLP 2021
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
----
-
+    The 2021 Conference on Empirical Methods in Natural Language Processing
+  title: EMNLP 2021
+newsItems:
+  - date: 2021-07-31
+    text: "The website is under construction"
+    persist: true
+keyDates:
+  - date: 2021-11-07
+    event: Main conference
+    dateEnd: 2021-11-11
+    important: true

@@ -8,7 +8,7 @@ seo:
 ---
 
 
-Coming soon!
+
 <!--
 *If your organization would like to sponsor EMNLP or other conferences in the ACL family, please see [our sponsorship information booklet](files/Sponsorship-2020-booklet.pdf).*
 -->

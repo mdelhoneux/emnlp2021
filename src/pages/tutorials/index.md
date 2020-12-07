@@ -8,7 +8,7 @@ seo:
   title: Tutorials | EMNLP 2021
 ---
 
-1. Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection   
+## 1. Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection   
 -- Presenters: Alane Suhr, Clara Vania, Nikita Nangia, Maarten Sap, Mark Yatskar, Samuel R. Bowman, Yoav Artzi
 
 2. Financial Opinion Mining   

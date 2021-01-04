@@ -8,4 +8,5 @@ seo:
   title: Workshops | EMNLP 2021
 ---
 
-TBD
+Workshop chairs: Parisa Kordjamshidi and Minlie Huang
+

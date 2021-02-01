@@ -50,11 +50,11 @@ EMNLP 2021 has the goal of a broad technical program. Relevant topics for the co
 
 ## Paper Submission
 
-**Long Papers**
+#### Long Papers
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
 Long papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long papers presented orally and as posters.
 
-**Short Papers**
+#### Short Papers
 Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages. Some kinds of short papers are:
 
  - A small, focused contribution
@@ -63,28 +63,31 @@ Short paper submissions must describe original and unpublished work. Please note
  - An interesting application nugget
 
 Short papers may consist of up to 4 pages of content, plus unlimited references. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
+
 Short papers will be presented orally or as posters as determined by the program committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
 
-**Authorship**
+#### Authorship
 The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to EMNLP 2021 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to EMNLP 2021 after the abstract submission deadline.
 
-**Citation and Comparison**
+#### Citation and Comparison
 You are expected to cite all refereed publications relevant to your submission, but you may be excused for not knowing about all unpublished work (especially work that has been recently posted and/or is not widely cited).
+
 In cases where a preprint has been superseded by a refereed publication, the refereed publication should be cited instead of the preprint version.
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to your submission, and you are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
+
 For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation)
 
-**Multiple Submission Policy**
+#### Multiple Submission Policy
 EMNLP 2021 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2021 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops).
 In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EMNLP 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
 
-**Ethics Policy**
+#### Ethics Policy
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
 
-**Paper Submission and Templates**
+#### Paper Submission and Templates
 Submission is electronic, using the [Softconf START conference management system](https://www.softconf.com/emnlp2021/papers). Both long and short papers must follow the EMNLP 2021 two-column format, using the supplied official style sheets (to be provided later). **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.** 
 
-**Optional Supplementary Materials: Appendices, Software and Data**
+#### Optional Supplementary Materials: Appendices, Software and Data
 Each EMNLP 2021 submission can be accompanied by one PDF appendix for the paper, one PDF for prior reviews and author response, one .tgz or .zip archive containing software, and one.tgz or .zip archive containing data. EMNLP 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, anonymised related work (see above), preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
 
 ## Anonymity Period

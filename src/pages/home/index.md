@@ -10,8 +10,8 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
-  - date: 2021-11-17
-    text: "EMNLP 2021 will take place from the 7th to the 11th of November 2021"
+  - date: 2021-02-01
+    text: "The [Call for Papers](/call-for-papers/) is out!"
     persist: true
 keyDates:
   - date: 2021-04-17

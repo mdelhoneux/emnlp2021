@@ -15,7 +15,7 @@ newsItems:
     persist: true
 keyDates:
   - date: 2021-04-17
-    event: Anonymity period begins
+    event: "[Anonymity period](/call-for-papers#anonymity-period) begins"
   - date: 2021-05-10
     event: Abstract submission deadline (long and short papers)
   - date: 2021-05-17

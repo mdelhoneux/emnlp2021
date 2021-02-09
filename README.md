@@ -28,4 +28,4 @@ seo:
 
 * The information about organizers, sponsors, tutorials and workshops pages are read from their respective files in src/data/. The organizers pictures are in src/img/org-committee. To add someone's picture, add the figure named as lowercased first name underscore lowercased last name dot png or jpg or other. Same goes for the sponsors logos in src/img/sponsors.
 
-
+* To modify the max number of news or blog posts that appear on the home page, modify MAX_BLOG_POSTS and MAX_NEWS_ITEMS in src/pages/index.js

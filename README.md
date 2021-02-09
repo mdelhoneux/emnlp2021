@@ -1,5 +1,7 @@
 # EMNLP website
 
+* Credits: This website is heavily based on the template of EMNLP 2020 by Andy MacKinlay, see [original source code](https://github.com/emnlp2020/emnlp2020-website). 
+
 * To test the website locally, run:
 ```
 $ gatsby build

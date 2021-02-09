@@ -8,7 +8,7 @@ $ gatsby build
 $ gatsby serve
 ```
 
-* To modify the website, just modify the files directly, `git push` will trigger a new deploy directly on [2021.emnlp.org](https://2021.emnlp.org/).
+* To modify the website, just modify the files directly, `git push` on the master branch will trigger a new deploy directly on [2021.emnlp.org](https://2021.emnlp.org/). Please make sure that you test the website locally before doing such a push :) Push to a branch for anything that should be saved but breaks the website.
 
 * The main individual pages can be modified in src/pages/\*/index.md
 

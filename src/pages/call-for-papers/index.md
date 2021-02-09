@@ -77,6 +77,7 @@ Papers (whether refereed or not) appearing less than 3 months before the submiss
 
 For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation)
 
+<span id="multiple-submission-policy"></span>
 #### Multiple Submission Policy
 EMNLP 2021 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2021 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops).
 In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EMNLP 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.

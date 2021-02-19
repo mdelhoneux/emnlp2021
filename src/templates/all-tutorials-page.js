@@ -40,7 +40,6 @@ const TutorialListing = ({tutorialNumber, title, authors, abstract, materials, i
 
 const TutorialsForDate = ({date, tutorials, images}) => (
     <section className="events-for-date">
-      <h2>{date}</h2>
       <section className="tutorials">
         {tutorials.map(t => <TutorialListing {...t} key={t.tutorialNumber} images={images}/>)}
       </section>

@@ -2,6 +2,6 @@ softconfNumber,tutorialNumber,title,topic,authors,kind,duration,date
 ,1,Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection,,"Alane Suhr, Clara Vania, Nikita Nangia, Maarten Sap, Mark Yatskar, Samuel R. Bowman, Yoav Artzi",,,2021-11-11
 ,2,Financial Opinion Mining   ,,"Hsin-Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen",,,2021-11-11
 ,3,Knowledge-Enriched Natural Language Generation   ,,"Wenhao Yu, Meng Jiang, Zhiting Hu, Qingyun Wang, Heng Ji, Nazneen Rajani",,,2021-11-11
-,4,Multi-Domain Multilingual Question Answering   ,,Sebastian Ruder and Avirup Sil,,,2021-11-11
+,4,Multi-Domain Multilingual Question Answering   ,,"Sebastian Ruder, Avirup Sil",,,2021-11-11
 ,5,Robustness and Adversarial Examples in Natural Language Processing    ,,"Kai-Wei Chang, He He, Robin Jia, Sameer Singh",,,2021-11-11
 ,6,Syntax in End-to-End Natural Language Processing   ,,"Hai Zhao, Rui Wang, Kehai Chen",,,2021-11-11

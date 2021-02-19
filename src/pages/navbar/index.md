@@ -6,11 +6,12 @@ menuItems:
   - label: calls
     linkURL: /call-for-papers
   - label: program
+    linkURL: /workshops
+    linkType: internal
     otherPatterns:
+    - /attending
     - /tutorials
     - /workshops
-    - /attending
-    linkURL: /attending
   - label: organizers
     linkURL: /organizers
   - label: sponsors

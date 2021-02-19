@@ -151,3 +151,39 @@ const PapersPage = ({data, location}) => {
 };
 
 export default PapersPage;
+
+export const submissionsQuery = graphql`
+  query Submissions($id: String!, $acceptanceStatusKey: String!) {
+    markdownRemark(id: { eq: $id }) {
+      html
+      frontmatter {
+        title
+        seo {
+          browserTitle
+          title
+          description
+        }
+        linkToSchedule
+        summarySuffix
+      }
+    }
+    groupedPapers: allPapersCsv(filter: { acceptanceStatus: { eq: $acceptanceStatusKey }}) {
+      group(field: submissionType) {
+        edges {
+          node {
+            submissionID
+            authors
+            title
+            abstract
+            track
+          }
+        }
+        fieldValue
+      }
+    }
+    ...LayoutFragment
+    secondaryNavData: allMarkdownRemark(filter: { frontmatter: { forSection: { eq: "program" } } }) {
+      ...NavbarFieldsFragment
+    }
+  }
+`

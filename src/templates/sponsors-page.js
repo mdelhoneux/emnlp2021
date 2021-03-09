@@ -19,6 +19,8 @@ const SponsorLogo = ({ sharpImageData, name }) => (
   </div>
 );
 
+// this breaks if there is no image
+// can be modified like in organizers to avoid this
 const SponsorListing = ({ name, sharpImageData, link }) => (
   <a href={link}>
     <article className="sponsor">

@@ -1,7 +1,7 @@
 - levelName: Diamond
   sponsors: 
     - name: Facebook
-      link: https://www.facebook.com
+      link: https://ai.facebook.com/
 - levelName: Platinum
   sponsors:
     - name: Megagon Labs
@@ -16,4 +16,6 @@
       link: https://hltcoe.jhu.edu/
     - name: Legal Force
       link: https://www.legalforce.co.jp/
+    - name: Babelscape
+      link: https://babelscape.com/
 

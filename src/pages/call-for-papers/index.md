@@ -8,6 +8,7 @@ seo:
 ---
 
 * **The [call for system demonstrations](/call-for-papers/demos) is also available**
+* **Information about the [style files and formatting](/call-for-papers/style-and-formatting)**
 
 ## Overview
 

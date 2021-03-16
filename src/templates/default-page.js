@@ -9,16 +9,16 @@ import "../styles/default-page.scss";
 import StandardPageTemplate from "../components/StandardPageTemplate";
 
 const DefaultPage = ({ data, location }) => {
-  const { markdownRemark: page, footerData, navbarData, secondaryNavData, site } = data;
+  const { markdownRemark: page, footerData, navbarData, site } = data;
 
-    return (
-        <Layout {...{footerData, navbarData, secondaryNavData, site, location}}>
-        <PageHelmet page={page}/>
-        <StandardPageTemplate page={{...page}}>
-        <HTMLContent className="default-content" content={page.html}/>
-        </StandardPageTemplate>
-        </Layout>
-    );
+  return (
+    <Layout footerData={footerData} navbarData={navbarData} site={site} location={location}>
+      <PageHelmet page={page} />
+      <StandardPageTemplate page={{ ...page }}>
+        <HTMLContent className="default-content" content={page.html} />
+      </StandardPageTemplate>
+    </Layout>
+  );
 };
 
 DefaultPage.propTypes = {
@@ -41,8 +41,5 @@ export const defaultPageQuery = graphql`
       }
     }
     ...LayoutFragment
-    secondaryNavData: allMarkdownRemark(filter: { frontmatter: { forSection: { eq: "program" } } }) {
-    ...NavbarFieldsFragment
-  }
   }
 `;

@@ -1,5 +1,5 @@
 ---
-templateKey: default-page
+templateKey: default-page-sec-navbar
 title: Information for Attendees
 seo:
   browserTitle: Information for Attendees | EMNLP 2021

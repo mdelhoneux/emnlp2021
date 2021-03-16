@@ -21,10 +21,10 @@ The templates are available as an [Overleaf template](https://www.overleaf.com/l
 
 * We now use the "lineno" package instead of writing pseudo-numbers down the margins. Line numbers now line up, and many other simplifications were enabled by this change.
 
-* We will not use the `\aclfinalcopy` command. Instead, the review copy (anonymized, page and line numbers) is enabled by passing "review" as an "acl" package argument:
+* We will not use the `\aclfinalcopy` command. Instead, the review copy (anonymized, page and line numbers) is enabled by passing "review" as an "emnlp2021" package argument:
 
   ```
-  \usepackage[review]{acl}
+  \usepackage[review]{emnlp2021}
   ```
 
 * There is no `\aclpaperid` macro. Softconf will add the submission ID stamp.

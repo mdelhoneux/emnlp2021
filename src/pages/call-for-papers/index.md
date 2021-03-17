@@ -52,7 +52,7 @@ EMNLP 2021 has the goal of a broad technical program. Relevant topics for the co
  - Summarization
  - Syntax: Tagging, Chunking and Parsing
 
-## Paper Submission
+## Paper Submission Information
 
 #### Long Papers
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
@@ -89,8 +89,10 @@ In addition, we will not consider any paper that overlaps significantly in conte
 #### Ethics Policy
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
 
+Authors will be allowed extra space after the 8th page (4th for short papers) for a broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](call-for-papers/faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
+
 #### Paper Submission and Templates
-Submission is electronic, using the [Softconf START conference management system](https://www.softconf.com/emnlp2021/papers). Both long and short papers must follow the EMNLP 2021 two-column format, using the supplied official style sheets (to be provided later). **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.** 
+Submission is electronic, using the [Softconf START conference management system](https://www.softconf.com/emnlp2021/papers). Both long and short papers must follow the EMNLP 2021 two-column format, using the supplied [official style files](call-for-papers/style-and-formatting). **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.** 
 
 #### Optional Supplementary Materials: Appendices, Software and Data
 Each EMNLP 2021 submission can be accompanied by one PDF appendix for the paper, one PDF for prior reviews and author response, one .tgz or .zip archive containing software, and one.tgz or .zip archive containing data. EMNLP 2021 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, anonymised related work (see above), preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
@@ -112,15 +114,55 @@ As reviewing will be double blind, papers must not include authors’ names and 
 Papers should not refer, for further detail, to documents that are not available to the reviewers. For example, do not omit or redact important citation information to preserve anonymity. Instead, use third person or named reference to this work, as described above (“Smith showed” rather than “we showed”). If important citations are not available to reviewers (e.g., awaiting publication), these paper/s should be anonymised and included in the appendix. They can then be referenced from the submission without compromising anonymity.
 Papers may be accompanied by a resource (software and/or data) described in the paper, but these resources should also be anonymized.
 
+### Sticky Reviews (optional)
+
+Authors resubmitting a paper that has been rejected from another venue are invited to submit alongside their paper the previous version of the paper, the reviews and an author response, following the procedure introduced at EMNLP last year. This is optional. It is designed to mimic the revise-and-resubmit procedure underlying journals like TACL. We expect that the fact that a paper was rejected from another venue will not necessarily affect the paper’s decision in a negative way, but is likely to be beneficial to authors who believe they have addressed the problems identified, and can argue strongly for how the paper has been improved. The prior reviews will not be seen by reviewers, but be used as part of the EMNLP 2021 decision process, primarily by area chairs and program chairs in review quality control, resolving disagreements between reviewers, and in deciding borderline papers.
 
 ## Reproducibility Criteria
 
 During the submission process, authors will be asked to answer the questions from the Reproducibility Checklist. The checklist is intended as a reminder to help the authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. However, the answers will be made available to the reviewers. Reviewers will be asked to assess the reproducibility of the work as part of their reviews.
 
+The following is a preliminary checklist we plan to use.
+For all reported experimental results:
+* [ ] A clear description of the mathematical setting, algorithm, and/or model.
+* [ ] Submission of a zip file containing source code, with specification of all dependencies, including external libraries, or a link to such resources (while still anonymized)
+* [ ] Description of computing infrastructure used
+* [ ] The average runtime for each model or algorithm (e.g., training, inference, etc.), or estimated energy cost
+* [ ] Number of parameters in each model
+* [ ] Corresponding validation performance for each reported test result
+* [ ] Explanation of evaluation metrics used, with links to code  
+
+For all experiments with hyperparameter search:
+* [ ] The exact number of training and evaluation runs
+* [ ] Bounds for each hyperparameter
+* [ ] Hyperparameter configurations for best-performing models
+* [ ] Number of hyperparameter search trials
+* [ ] The method of choosing hyperparameter values (e.g., uniform sampling, manual tuning, etc.) and the criterion used to select among them (e.g., accuracy)
+* [ ] Summary statistics of the results (e.g., mean, variance, error bars, etc.)
+ 
+For all datasets used:
+* [ ] Relevant details such as languages, and number of examples and label distributions
+* [ ] Details of train/validation/test splits
+* [ ] Explanation of any data that were excluded, and all pre-processing steps
+* [ ] A zip file containing data or link to a downloadable version of the data
+* [ ] For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
+
+This list is based on [Dodge et al, 2019](https://www.aclweb.org/anthology/D19-1224.pdf) and [Joelle Pineau's reproducibility checklist.](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
+
 
 ## Presentation Requirement
 
-All accepted papers must be presented at the conference to appear in the proceedings. Authors of papers accepted for presentation at EMNLP 2021 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
+All accepted papers must be presented at the conference to appear in the proceedings.   
+Authors of papers accepted for presentation at EMNLP 2021 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.  
+
 At least one author of each accepted paper must register for EMNLP 2021 by the early registration deadline.
 
+
+## ACLRollingReview
+
+We are working with ACLRollingReview towards running a pilot with EMNLP 2021. The plan is for a small proportion of our papers to come from ACLRollingReview.
+
+ACLRollingReview is a new review system for \*ACL conferences, where reviewing and acceptance of papers to publication venues is done in a two-step process: (1) centralized rolling review and (2) submission to publication venue. The purpose of ACLRollingReview is to improve efficiency and turnaround of reviewing in *ACL conferences while keeping the diversity (geographic and otherwise) and editorial freedom.
+
+More details of ACLRollingReview, as well as the cut-off dates for publication and presentation at EMNLP 2021, will be released soon.
 

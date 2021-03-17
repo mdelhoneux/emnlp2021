@@ -20,7 +20,7 @@ Ethics review is handled at several levels:
 
 *   In the CFP and this page: information is given concerning what is expected from the authors and reviewers concerning ethics. 
 
-*   EMNLP reviewers are asked to consider the points listed in the [ethics review questions page](/ethics/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
+*   EMNLP reviewers are asked to consider the points listed in the [ethics review questions page](/call-for-papers/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
 
 *   A reviewing committee, dedicated to ethical issues, will review papers flagged as problematic by the reviewers or the ACs during the review process. The committee membership will be listed on the EMNLP 2021 webpage.
 

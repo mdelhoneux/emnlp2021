@@ -160,7 +160,7 @@ At least one author of each accepted paper must register for EMNLP 2021 by the e
 
 ## ACLRollingReview
 
-We are working with ACLRollingReview towards running a pilot with EMNLP 2021. The plan is for a small proportion of our papers to come from ACLRollingReview.
+We are working with [ACLRollingReview](https://www.aclweb.org/portal/content/association-computational-linguistics-aclrollingreview-system) towards running a pilot with EMNLP 2021. The plan is for a small proportion of our papers to come from ACLRollingReview.
 
 ACLRollingReview is a new review system for \*ACL conferences, where reviewing and acceptance of papers to publication venues is done in a two-step process: (1) centralized rolling review and (2) submission to publication venue. The purpose of ACLRollingReview is to improve efficiency and turnaround of reviewing in *ACL conferences while keeping the diversity (geographic and otherwise) and editorial freedom.
 

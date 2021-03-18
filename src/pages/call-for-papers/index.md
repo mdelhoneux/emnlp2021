@@ -89,7 +89,7 @@ In addition, we will not consider any paper that overlaps significantly in conte
 #### Ethics Policy
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
 
-Authors will be allowed extra space after the 8th page (4th for short papers) for a broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](call-for-papers/faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
+Authors will be allowed extra space after the 8th page (4th for short papers) for a broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
 #### Paper Submission and Templates
 Submission is electronic, using the [Softconf START conference management system](https://www.softconf.com/emnlp2021/papers). Both long and short papers must follow the EMNLP 2021 two-column format, using the supplied [official style files](call-for-papers/style-and-formatting). **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.** 
@@ -124,28 +124,28 @@ During the submission process, authors will be asked to answer the questions fro
 
 The following is a preliminary checklist we plan to use.
 For all reported experimental results:
-* [ ] A clear description of the mathematical setting, algorithm, and/or model.
-* [ ] Submission of a zip file containing source code, with specification of all dependencies, including external libraries, or a link to such resources (while still anonymized)
-* [ ] Description of computing infrastructure used
-* [ ] The average runtime for each model or algorithm (e.g., training, inference, etc.), or estimated energy cost
-* [ ] Number of parameters in each model
-* [ ] Corresponding validation performance for each reported test result
-* [ ] Explanation of evaluation metrics used, with links to code  
+*  A clear description of the mathematical setting, algorithm, and/or model.
+*  Submission of a zip file containing source code, with specification of all dependencies, including external libraries, or a link to such resources (while still anonymized)
+*  Description of computing infrastructure used
+*  The average runtime for each model or algorithm (e.g., training, inference, etc.), or estimated energy cost
+*  Number of parameters in each model
+*  Corresponding validation performance for each reported test result
+*  Explanation of evaluation metrics used, with links to code  
 
 For all experiments with hyperparameter search:
-* [ ] The exact number of training and evaluation runs
-* [ ] Bounds for each hyperparameter
-* [ ] Hyperparameter configurations for best-performing models
-* [ ] Number of hyperparameter search trials
-* [ ] The method of choosing hyperparameter values (e.g., uniform sampling, manual tuning, etc.) and the criterion used to select among them (e.g., accuracy)
-* [ ] Summary statistics of the results (e.g., mean, variance, error bars, etc.)
+*  The exact number of training and evaluation runs
+*  Bounds for each hyperparameter
+*  Hyperparameter configurations for best-performing models
+*  Number of hyperparameter search trials
+*  The method of choosing hyperparameter values (e.g., uniform sampling, manual tuning, etc.) and the criterion used to select among them (e.g., accuracy)
+*  Summary statistics of the results (e.g., mean, variance, error bars, etc.)
  
 For all datasets used:
-* [ ] Relevant details such as languages, and number of examples and label distributions
-* [ ] Details of train/validation/test splits
-* [ ] Explanation of any data that were excluded, and all pre-processing steps
-* [ ] A zip file containing data or link to a downloadable version of the data
-* [ ] For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
+*  Relevant details such as languages, and number of examples and label distributions
+*  Details of train/validation/test splits
+*  Explanation of any data that were excluded, and all pre-processing steps
+*  A zip file containing data or link to a downloadable version of the data
+*  For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
 
 This list is based on [Dodge et al, 2019](https://www.aclweb.org/anthology/D19-1224.pdf) and [Joelle Pineau's reproducibility checklist.](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 

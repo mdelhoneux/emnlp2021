@@ -20,7 +20,7 @@ Ethics review is handled at several levels:
 
 *   In the CFP and this page: information is given concerning what is expected from the authors and reviewers concerning ethics. 
 
-*   EMNLP reviewers are asked to consider the points listed in the [ethics review questions page](/call-for-papers/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
+*   EMNLP reviewers are asked to consider the points listed in the [ethics review questions page](/call-for-papers/ethics-review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
 
 *   A reviewing committee, dedicated to ethical issues, will review papers flagged as problematic by the reviewers or the ACs during the review process. The committee membership will be listed on the EMNLP 2021 webpage.
 
@@ -99,3 +99,5 @@ Here are links to some additional resources that are useful to read before writi
 *   [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832) by Carolyn Ashurst, Markus Anderljung, Carina Prunkl, Jan Leike, Yarin Gal, Toby Shevlane, and Allan Dafoe
 
 *   [Research on Machine Learning for Disaster Response: what makes a good paper?](https://towardsdatascience.com/research-on-machine-learning-for-disaster-response-b65f3e97c018?source=friends_link&sk=e2e8e7ef66cae276bde29298b7516955) by Rob Munro
+
+*Most of the text above comes from the [NAACL 2021 Ethics FAQ](https://2021.naacl.org/ethics/faq/); we thank the NAACL 2021 Ethics Chairs, Emily M. Bender and Karën Fort for drafting the prior version.*

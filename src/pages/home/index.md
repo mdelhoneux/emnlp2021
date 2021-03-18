@@ -10,6 +10,9 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
+  - date: 2021-03-18
+    text: "The [Call for Papers](/call-for-papers/) has been updated, the [template style files](call-for-papers/style-and-formatting) are now available, and we have added information about ethics reviews on the [Ethics faq](/call-for-papers/ethics-faq)."
+    persist: true
   - date: 2021-02-01
     text: "The [Call for Papers](/call-for-papers/) is out!"
     persist: true

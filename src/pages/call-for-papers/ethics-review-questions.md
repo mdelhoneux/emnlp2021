@@ -15,7 +15,7 @@ Please note that this is not an exhaustive list of types of ethical issues that 
 
 *   Does the paper describe how participants' privacy rights were respected in the data collection process?
 
-*   Does the paper describe how crowd workers or other annotators were fairly compensated and how the compensation was determined to be fair?
+*   Does the paper describe that crowd workers or other annotators were treated fairly? This includes, but is not limited to, compensating them fairly and ensuring that they were able to give informed consent, which includes, but is not limited to, ensuring that they were voluntary participants who were aware of any risks of harm associated with their participation.
 
 *   Does the paper indicate that the data collection process was subjected to any necessary review by an appropriate review board?    
 

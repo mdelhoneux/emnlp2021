@@ -53,7 +53,7 @@ The sections below outline the kind of information that should be included in an
 
 *   Ensure that your dataset has been collected in a manner which is consistent with the terms of use of any sources and the intellectual property and privacy rights of the original authors of the texts. The fact that a dataset has already been used previously does not necessarily make it acceptable. If appropriate, check that informed consent was signed.  Your institution may have a data officer or a review board  charged with helping researchers navigate these issues and we encourage you to reach out to them for assistance.
 
-*   Detail the dataset collection process and conditions. If manual work was involved, describe measures taken to  ensure that crowd workers or other annotators were fairly compensated and how fair compensation was determined.
+*   Detail the dataset collection process and conditions. If manual work was involved, describe measures taken to ensure that crowd workers or other annotators were treated fairly. This includes, but is not limited to, compensating them fairly and ensuring that they were able to give informed consent, which includes, but is not limited to, ensuring that they were voluntary participants who were aware of any risks of harm associated with their participation.
 
 *   Please indicate if your project was approved by an IRB (institutional review board).  (For a discussion of IRBs in the US context, see <https://www.apa.org/advocacy/research/defending-research/review-boards>)
 

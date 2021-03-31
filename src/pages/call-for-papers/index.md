@@ -30,12 +30,12 @@ The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 ## Submissions
 
 EMNLP 2021 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
- - Computational Social Science and Social Media
+ - Computational Social Science and Cultural Analytic
  - Dialogue and Interactive Systems
  - Discourse and Pragmatics
+ - Efficient Methods for NLP
  - Ethics and NLP
  - Generation
- - Green NLP
  - Information Extraction
  - Information Retrieval and Text Mining
  - Interpretability and Analysis of Models for NLP

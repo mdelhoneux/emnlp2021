@@ -2,185 +2,141 @@
 templateKey: default-page
 title: Senior Program Committee
 seo:
-  browserTitle: Senior Program Committee | EMNLP 2020
+  browserTitle: Senior Program Committee | EMNLP 2021
   description: 
-  title: Senior Program Committee | EMNLP 2020
+  title: Senior Program Committee | EMNLP 2021
 ---
-## Program Chairs
 
-[Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), University of
-Melbourne
+## Senior Area Chairs (**SACs**) and Area Chairs (ACs)
 
-[Yulan He](https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/),
-University of Warwick
+### Computational Social Science and Cultural Analytics
 
-[Yang
-Liu](https://scholar.google.co.uk/citations?user=w90wOucAAAAJ&hl=en),
-Amazon -- Alexa AI, USA
+**SACs**: Jing Jiang, Alan Ritter
 
-## Senior Area Chairs (SACs) and Area Chairs (ACs)
-
-### Computational Social Science and Social Media
-
-SACs: [Jacob Eisenstein](http://www.jacob-eisenstein.com/), [Dong
-Nguyen](https://www.dongnguyen.nl/)
-
-ACs: David Bamman, Cristian Danescu-Niculescu-Mizil, Lucie Flek, Jing
-Jiang, David Jurgens, Brendan O\'Connor, Chenhao Tan, Sara Tonelli,
-Andreas Vlachos
+**ACs**: Jacob Eisenstein, Kristen Johnson, David Jurgens, Preslav Nakov, Simone Paolo Ponzetto, Andrew Schwartz, Wei Xu, Justine Zhang
 
 ### Dialogue and Interactive Systems
 
-SACs: [Srinivas Bangalore](https://sbangalore.com/), [Xiaodong
-He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en)
+**SACs**: Annemarie Friedrich, Kevin Small, Ruihua Song
 
-ACs: Yun-Nung Chen, Alborz Geramifard, Minlie Huang, Jing Huang,
-Seokhwan Kim, Mahnoosh Mehrabani, Helen Meng, Aasish Pappu, Xiaojun
-Quan, Sakriani Sakti, Ethan Selfridge, Ruihua Song, Rui Yan, Zhou Yu
+**ACs**: Emily Dinan, Zhicheng Dou, Kallirroi Georgila, Alborz Geramifard, Casey Kennington, Yanyan Lan, Pearl Pu, Oleg Rokhlenko, Gabriel Skantze, Han Ting, Stefan Ultes, Thang Vu, Youzheng Wu, Wei Wu, Min Yang, Sina Zarrieß, Weinan Zhang
 
 ### Discourse and Pragmatics
 
-SAC: [Vincent Ng](https://cs.utdallas.edu/people/faculty/ng-vincent/)
+**SAC:** Guodong Zhou
 
-ACs: Annemarie Friedrich, Ruihong Huang, Junyi Jessy Li, Sujian Li
+**ACs**: Fang Kong, Xiaojie Wang, Rui Xia, Ruifeng Xu
+
+### Ethics in NLP
+
+**SAC:** Natalie Schluter
+
+**ACs**: Sasha Luccioni, Marta Ruiz Costa-Jussa, Simon Suster
+
+### Efficient Methods for NLP
+
+**SAC:** Jesse Dodge
+
+**ACs**: Aleksandr Drozd, Gabriel Stanovsky
+
+### Generation
+
+**SACs**: Nan Duan, Mohit Iyyer, Advaith Siddharthan
+
+**ACs**: Anya Belz, Asli Celikyilmaz, Nina Dethlefs, Angela Fan, Albert Gatt, Yeyun Gong, Meng Jiang, Chenghua Lin, Nanyun Peng, Hannah Rashkin, Hiroya Takamura, Rui Yan, Jiajun Zhang
 
 ### Information Extraction
 
-SACs: [Maggie Li](https://www4.comp.polyu.edu.hk/~cswjli/), [Alan
-Ritter](http://aritter.github.io/)
+**SACs**: Leon Derczynski, Fei Liu, Kang Liu
 
-ACs: Eunsol Choi, Bhavana Dalvi, Leon Derczynski, Doug Downey, Greg
-Durrett, Luheng He, Zhao Jun, Jiwei Li, Kang Liu, Zhiyuan Liu, Nanyun
-Peng, Hoifung Poon, Nazneen Rajani, Yangqiu Song, Veselin Stoyanov
+**ACs**: Christos Christodoulopoulos, Manuel Ciosici, Gerard de Melo, Antoine Doucet, Doug Downey, Mahmoud El-Haj, Yansong Feng, Xianpei Han, Luheng He, Zhiyuan Liu, Stephen Mayhew, Tim Miller, Thien Huu Nguyen, Qiang Ning, Marius Pasca, Hoifung Poon, Roi Reichart, Xiang Ren, Yangqiu Song, Jie Yang, Mo Yu, Dian Yu
 
 ### Information Retrieval and Text Mining
 
-SAC: [Alessandro
-Moschitti](https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en)
+**SACs**: Mark Sanderson, Andrew Yates
 
-ACs: Dina Demner-Fushman, Simone Filice, Jimmy Lin, Matthias Petri,
-Kateryna Tymoshenko, Olga Uryupina
+**ACs**: Simone Filice, Ahmed Hassan Awadallah, Evangelos Kanoulas, Sarvnaz Karimi, Heri Ramampiaro, Suzan Verberne, Thuy Vu, Jenny Zhang
 
 ### Interpretability and Analysis of Models for NLP
 
-SAC: [Sameer Singh](http://sameersingh.org/), [William Wang](https://sites.cs.ucsb.edu/~william/)
+**SACs**: Zack Lipton, Francesca Toni
 
-ACs: Yonatan Belinkov, Shiyu Chang, Manaal Faruqui, Vivek Kulkarni, Hung-yi Lee, Xu Sun, Byron
-Wallace, Xin Wang, Diyi Yang
-
-### Language Generation
-
-SACs: [Chenghua Lin](https://chenghualin.wordpress.com/), [Lu
-Wang](https://www.ccs.neu.edu/home/luwang/)
-
-ACs: Thiago Castro Ferreira, Albert Gatt, Yannis Konstas, Shashi
-Narayan, Ankur Parikh, Sudha Rao, Ehud Reiter, Advaith Siddharthan,
-Hiroya Takamura, Michael White, Samuel Wiseman, Wei Xu, Jin-Ge Yao
-
-### Language Grounding to Vision, Robotics and Beyond
-
-SAC: [Lucia Specia](https://www.imperial.ac.uk/people/l.specia)
-
-ACs: Loic Barrault, Raffaella Bernardi, Demond Elliott, Yishu Miao, Lorenzo
-Seidenari, Zhongyu Wei
+**ACs**: Leila Arras, Jasmijn Bastings, Grzegorz Chrupala, Kevin Clark, Yonatan Belinkov, Sebastian Gehrmann, Diewke Hupkes, Piyawat Lertvittayakumjorn, Anna Rogers, Naomi Saphra, Sameer Singh, Byron Wallace 
 
 ### Linguistic Theories, Cognitive Modeling and Psycholinguistics
 
-SAC: [Roger Levy](https://bcs.mit.edu/users/rplevymitedu)
+**SAC:** Ryan Cotterell
 
-ACs: Ryan Cotterell, Aida Nematzadeh, Tim O\'Donnell, Leila Wehbe
+**ACs**: Afra Alishahi, Kyle Mahowald, Aida Nematzadeh, Adina Williams
 
 ### Machine Learning for NLP
 
-SAC: [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), [Reza
-Haffari](https://research.monash.edu/en/persons/reza-haffari), [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/)
+**SACs**: Isabelle Augenstein, Angeliki Lazaridou, Wei Lu, Karthik Narasimhan
 
-ACs: Wray Buntine, Kai-Wei Chang, Colin Cherry, Shay Cohen, Kevin Duh,
-Sarvnaz Karimi, Karen Livescu, Andre Martins, Massimo Piccardi, Colin Raffel, Sebastian
-Ruder, Rachel Rudinger, Sasha Rush, Shashank Srivastava, Pontus Stenetorp, Emma Strubell,
-Jun Suzuki, Kristina Toutanova, Adam Trischler, Dani
-Yogatama
+**ACs**: Yuki Arase, Daniel Beck, Iz Beltagy, Kai-Wei Chang, Georgiana Dinu, Lea Frermann, Yoav Goldberg, Yoon Kim, Carolin Lawrence, Tao Lei, Lei Li, André Martins, Vlad Niculae, Siva Reddy, Vivek Srikumar, Karl Stratos, Jun Suzuki, Swabha Swayamdipta, Yulia Tsvetkov, Sam Wiseman
 
-### Machine Translation and Multilinguality 
+### Machine Translation and Multilinguality
 
-SACs: [Stefan
-Riezler](http://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/),
-[Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/)
+**SACs**: Alexandra Birch, Yang Feng, Ves Stoyanov
 
-ACs: Bill Byrne, Yang Feng, Jiatao Gu, Barry Haddow, Julia Kreutzer,
-Wolfgang Macherey, Lluís Màrquez, Jan Niehues, Tao Qin, Rico Sennrich,
-Jinsong Su, Josef van Genabith, Guillaume Wisniewski
+**ACs**: Boxing Chen, Colin Cherry, Trevor Cohn, Marta Costa-jussà, Marcello Federico, Orhan Firat, Dan Garrette, Zhongjun He, Katharina Kann, Junhui Li, Yang Liu, Qun Liu, Rico Sennrich, Taro Watanabe, Deyi Xiong, Imed Zitouni 
 
 ### NLP Applications
 
-SACs: [Thamar Solorio](http://solorio.uh.edu/), [Deyu
-Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html)
+**SACs**: Dina Demner-Fushman, Shafiq Rayhan Joty, Maria Liakata
 
-ACs: Tao Ge, Helena Gomez, Lei Li, Yunyao Li, Maria Liakata, Nedim Lipka, Makoto
-Miwa, Tristan Naumann, Alice Oh, Veronica Perez-Rosas, Alla Rozovskaya, Sara Stymne, Ivan
-Vladimir Meza, David Vilar, Rui Xia, Helen Yannakoudakis
+**ACs**: Nikolaos Aletras, Emilia Apostolova, Steven Bedrick, Aoife Cahill, Nancy Chen, Fenia Christopoulou, Nadir Durrani, Wei Gao, Travis Goodwin, Yulan He, Lifu Huang, David Mimno, Makoto Miwa, Tristan Naumann, Dong Nguyen, Diarmuid Ó Séaghdha, Nazneen Rajani, Kirk Roberts, Hassan Sajjad, Yi Tay, Thy Thy Tran, Karin Verspoor, Chrysoula Zerva, Aston Zhang, Arkaitz Zubiaga
 
 ### Phonology, Morphology and Word Segmentation
 
-SAC: [Hinrich Schutze](https://www.cis.uni-muenchen.de/schuetze/)
+**SAC:** Xipeng Qiu
 
-ACs: Xuanjing Huang, David Mortensen, Ekaterina Vylomova
+**ACs**: Baobao Chao, Ryan Cotterell, Hinrich Schütze, Hai Zhao
 
 ### Question Answering
 
-SACs: [Markus Dreyer](https://markusdreyer.org/), [Anh Tuan
-Luu](https://people.csail.mit.edu/tuanluu/)
+**SACs**: Eunsol Choi, Matt Gardner
 
-ACs: Asma Ben Abacha, Danqi Chen, Weiwei Cheng, Matt Gardner, Hannaneh
-Hajishirzi, Mohit Iyyer, Xiang Ren, Avi Sil, Kevin Small, Yi Tay,
-Shuohang Wang, Caiming Xiong, Scott Yih, Luke Zettlemoyer
+**ACs**: Jonathan Berant, Jordan Boyd-Graber, Danqi Chen, Yiming Cui, Hannaneh Hajishirzi, Robin Jia, Tushar Khot, Tom Kwiatkowski, Kenton Lee, Jimmy Lin, Minjoon Seo, Pontus Stenetorp, Alon Talmor
 
-### Semantics: Lexical Semantics
+### Resource and Evaluation
 
-SAC: [Mona Diab](https://www.seas.gwu.edu/mona-diab)
+**SAC:** Yvette Graham
 
-ACs: Marianna Apidianaki, Eduardo Blanco, Spandana Gella, German Rigau,
-Aline Villavicencio, Yi Zhang
+**ACs**: Barbara Plank, Ines Rehbein
 
-### Semantics: Sentence-level Semantics, Textual Inference and Other areas
+### Semantics: Lexical, Sentence level, Textual Inference and Other areas
 
-SACs: [Ivan Titov](http://ivan-titov.org/), [Yue
-Zhang](https://frcchang.github.io/)
+**SACs**: Tim Baldwin, Sonal Gupta, James Henderson
 
-ACs: Jonathan Berant, Xavier Carreras, Li Dong, Anette Frank, James
-Henderson, Zhenzhong Lan, Christopher Potts, Siva Reddy, Michael Roth, Linfeng Song,
-Gabriel Stanovsky
+**ACs**: Marianna Apidianaki, Wai Lam, Jey Han Lau, Mike Lewis, Koji Mineshima, Nafise Sadat Moosavi, Naoaki Okazaki, Tommaso Pasini, Panupong Pasupat, Michael Roth, Swabha Swayamdipta, Aline Villavicencio, Ivan Vulic, Diyi Yang, Yi Zhang
 
 ### Sentiment Analysis, Stylistic Analysis, and Argument Mining
 
-SACs: [Saif Mohammad](https://www.saifmohammad.com/), [Bing
-Qin](http://ir.hit.edu.cn/~qinb/)
+**SACs**: Veronique Hoste, Yue Zhang
 
-ACs: Felipe Bravo, Erik Cambria, Iryna Gurevych, Roman Klinger, Lun-Wei
-Ku, Bing Liu, Soujanya Poria, Aixin Sun, Duyu Tang
+**ACs**: Lidong Bing, Cristina Bosco, Eric Cambria, Orphée De Clercq, Ivan Habernal, Roman Klinger, Anh Tuan Luu, Soujanya Poria, Zhiyang Teng, Zhongqing Wang, Zhongyu Wei, Meishan Zhang
 
-### Speech and Multimodality
+### Speech, Vision, Robotics, Multimodal Grounding
 
-SAC: [Geoff Zweig](https://www.linkedin.com/in/geoffreyzweig)
+**SACs**: Hung-yi Lee, Pranava Madhyastha
 
-ACs: Jim Glass, Julia Hirschberg, Florian Metze, Tara Sainath
+**ACs**: Yonatan Bisk, Christian Fügen, David Harwath, Lisa Ann Hendricks, Chiori Hori, Douwe Kiela, Florian Metze, Tara Sainath, Radu Soricut, William Wang
 
 ### Summarization
 
-SAC: [Xiaojun Wan](https://wanxiaojun.github.io/)
+**SACs**: Xiaojun Wan, Lu Wang
 
-ACs: Giuseppe Carenini, Michael Elhadad, George Giannakopoulos, Piji Li,
-Fei Liu, Manabu Okumura, Maxime Peyrard
+**ACs**: Giuseppe Carenini, Michael Elhadad, Pengfei Liu, Shashi Narayan, Manabu Okumura, Jessica Ouyang, Maxime Peyrard, Caiming Xiong, Rui Zhang
 
-### Syntax: Tagging, Chunking, and Parsing
+### Syntax: Tagging, Chunking and Parsing
 
-SAC: [Mark Johnson](http://web.science.mq.edu.au/~mjohnson/)
+**SAC:** Wanxiang Che
 
-ACs: Mark Dras, Yoav Goldberg, Joakim Nivre, Emily Pitler, Kenji Sagae,
-Reut Tsarfaty, Kewei Tu
+**ACs**: Liang Huang, Zhenghua Li, Anders Søgaard, Weiwei Sun, Kewei Tu
 
 ### Multidisciplinary and AC COI
 
-SAC: [Heng Ji](https://cs.illinois.edu/directory/profile/hengji)
+**SACs**: Diana Inkpen, Lluís Màrquez
 
-ACs: Jeff Dalton, Mark Hasegawa-Johnson, Vered Shwartz, Carl Vondrick
+**ACs**: Cecilia Alm, Paul Cook, Zornitsa Kozareva, German Rigau

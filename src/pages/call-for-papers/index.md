@@ -27,6 +27,11 @@ The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 
 **All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").**
 
+## Mandatory abstract submission
+
+The paper title, author names, contact details, and a brief abstract must be submitted electronically through the EMNLP 2021 paper submission site by the abstract submission deadline. It will be possible to make minor edits to the title and abstract until the full paper submission deadline but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; there is no need to withdraw the submission or notify us. 
+Important: if you miss the abstract submission deadline, then you cannot submit the full paper.
+
 ## Submissions
 
 EMNLP 2021 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
@@ -107,6 +112,7 @@ The following rules and guidelines are meant to protect the integrity of double-
   - You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
   - You may make an anonymized version of your paper available (for example, on OpenReview), even during the anonymity period.
   - Note that, while you are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make double-blind reviewing more difficult to maintain, and we therefore encourage you to wait until the end of the anonymity period. Alternatively, you may consider submitting your work to the Computational Linguistics journal, which does not require anonymization and has a track for “short” (i.e., conference-length) papers.
+ - For arXiv submissions, April 17 11:59pm UTC-12h (anywhere on earth) is the latest time the paper can be uploaded.
   
 ## Instructions For Double-Blind Review
 
@@ -158,11 +164,12 @@ Authors of papers accepted for presentation at EMNLP 2021 must notify the progra
 At least one author of each accepted paper must register for EMNLP 2021 by the early registration deadline.
 
 
-## ACLRollingReview
+## ACL Rolling Review
 
-We are working with [ACLRollingReview](https://www.aclweb.org/portal/content/association-computational-linguistics-aclrollingreview-system) towards running a pilot with EMNLP 2021. The plan is for a small proportion of our papers to come from ACLRollingReview.
+We are working with [ACL Rolling Review](https://www.aclweb.org/portal/content/association-computational-linguistics-aclrollingreview-system) towards running a pilot with EMNLP 2021. The plan is for a small proportion of our papers to come from ARR.
 
-ACLRollingReview is a new review system for \*ACL conferences, where reviewing and acceptance of papers to publication venues is done in a two-step process: (1) centralized rolling review and (2) submission to publication venue. The purpose of ACLRollingReview is to improve efficiency and turnaround of reviewing in *ACL conferences while keeping the diversity (geographic and otherwise) and editorial freedom.
+ARR is a new review system for \*ACL conferences, where reviewing and acceptance of papers to publication venues is done in a two-step process: (1) centralized rolling review and (2) submission to a publication venue. The purpose of ACL Rolling Review is to improve efficiency and turnaround of reviewing in *ACL conferences while keeping the diversity (geographic and otherwise) and editorial freedom.
 
-More details of ACLRollingReview, as well as the cut-off dates for publication and presentation at EMNLP 2021, will be released soon.
+### Cut-off dates for publication and presentation at EMNLP 2021
 
+EMNLP will only consider papers and reviews from ARR if: (1) the papers are submitted to ARR by May 15, 2021 (i.e., the first deadline for ARR), and (2) the reviews are ready by July 29, 2021. Given that this is the first ARR pilot and is running in parallel with the traditional reviewing pipeline, if EMNLP receives a large number of submissions from ARR, we may cap the number of papers that will be evaluated by EMNLP (e.g., 100 submissions).

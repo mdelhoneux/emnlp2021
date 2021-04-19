@@ -42,7 +42,7 @@ You may want to upload your dataset as a .zip archive, rather than a link. This 
 Yes, we will continue accepting a portion of the submitted papers in *Findings of EMNLP*, [introduced in EMNLP 2020](https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp/).
 
 ### **Q12: How is ethics review handled?**  
-Please refer to the [Ethics Policy](/call-for-papers/ethics-policy) section of call for papers and [Ethics FAQ](/call-for-papers/ethics-faq).
+Please refer to the [Ethics Policy](/call-for-papers#ethics-policy) section of call for papers and [Ethics FAQ](/call-for-papers/ethics-faq).
 
 ### **Q13: Do all authors have to have user profiles and global profiles?**  
 Please make sure you and your co-authors have filled out the user profile. This includes updating your Global User Information (which includes conflicts of interest and Semantic Scholar ID, Google Scholar ID, among other things), in addition to the conference profile Information.

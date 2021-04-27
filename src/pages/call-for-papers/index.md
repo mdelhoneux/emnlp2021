@@ -173,3 +173,7 @@ ARR is a new review system for \*ACL conferences, where reviewing and acceptance
 ### Cut-off dates for publication and presentation at EMNLP 2021
 
 EMNLP will only consider papers and reviews from ARR if: (1) the papers are submitted to ARR by May 15, 2021 (i.e., the first deadline for ARR), and (2) the reviews are ready by July 29, 2021. Given that this is the first ARR pilot and is running in parallel with the traditional reviewing pipeline, if EMNLP receives a large number of submissions from ARR, we may cap the number of papers that will be evaluated by EMNLP (e.g., 100 submissions).
+<br>  
+</br>
+
+*More information can be found in the [Committee blog](/blog). If you have questions that are not answered there, please email the program co-chairs at <emnlp2021pcs@gmail.com>.*

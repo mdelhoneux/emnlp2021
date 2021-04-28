@@ -6,6 +6,6 @@ logoImage:
   orgLink: https://www.aclweb.org
   taglines:
     - EMNLP 2021
-    - "7th – 11th November"
+    - "7th – 11th November | Online and in the Dominican Republic"
 ---
 

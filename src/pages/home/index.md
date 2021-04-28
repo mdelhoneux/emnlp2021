@@ -4,6 +4,7 @@ title: EMNLP 2021
 description: '<span class="avoid-breaks">The 2021 Conference</span> <span class="avoid-breaks">on Empirical Methods</span> <span class="avoid-breaks">in Natural Language Processing</span>'
 extraInfo: 
   - 7th – 11th November 2021
+  - Online and in the Barceló Bávaro Convention Centre, Punta Cana, Dominican Republic
 seo:
   browserTitle: EMNLP 2021
   description: >-

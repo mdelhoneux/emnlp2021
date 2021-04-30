@@ -2,22 +2,40 @@
   sponsors: 
     - name: Facebook
       link: https://ai.facebook.com/
+    - name: Google
+      link: https://research.google
+    - name: Bloomberg
+      link: http://techatbloomberg.com/
+    - name: Apple
+      link: https://www.apple.com/
 - levelName: Platinum
   sponsors:
     - name: Megagon Labs
       link: https://megagon.ai
+    - name: ByteDance
+      link: https://www.bytedance.com/en/
+    - name: Amazon
+      link: https://www.amazon.science/
 - levelName: Gold
   sponsors:
     - name: Grammarly
       link: https://www.grammarly.com/jobs/technology?utm_source=sponsor_page&utm_medium=about&utm_campaign=emnlp2021
+    - name: Microsoft
+      link: https://www.microsoft.com
+- levelName: Silver
+  sponsors: 
+    - name: Duolingo
+      link: https://research.duolingo.com
+    - name: NAVER
+      link: https://europe.naverlabs.com/ 
 - levelName: Bronze
   sponsors:
-    - name: HLTCOE
-      link: https://hltcoe.jhu.edu/
-    - name: Legal Force
-      link: https://www.legalforce.co.jp/
     - name: Babelscape
       link: https://babelscape.com/
+    - name: Legal Force
+      link: https://www.legalforce.co.jp/
+    - name: HLTCOE
+      link: https://hltcoe.jhu.edu/
 - levelName: "Diversity and Inclusion: Champion"
   sponsors:
       - name: Microsoft

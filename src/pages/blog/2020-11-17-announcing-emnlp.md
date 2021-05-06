@@ -2,9 +2,6 @@
 templateKey: blog-post-page
 title: "Announcing EMNLP"
 date: 2020-11-17
-updated:
-    - date: 2020-11-19
-      details: updated
 seo:
   title: "Announcing EMNLP"
   description: >- 

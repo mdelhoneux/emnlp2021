@@ -8,8 +8,6 @@ seo:
     Instructions for Reviewers
 ---
 
-# Instructions for Reviewers
-
 Thank you for reviewing for EMNLP 2021! In order to ensure the quality of reviews, we would like to share with you the following instructions for reviewing EMNLP 2021 papers. Please read these instructions before you start reviewing papers.
 
 ## Confidentiality

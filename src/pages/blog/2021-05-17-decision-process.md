@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post-page
-title: "Decision process"
+title: "Why EMNLP-2021 is not extending the deadline"
 date: 2021-05-17
 seo:
-  title: "Decision process"
+  title: "Why EMNLP-2021 is not extending the deadline"
   description: >- 
-    Decision process
+    Why EMNLP-2021 is not extending the deadline
 ---
 
 We have received requests for extending our submission deadline due to the challenges that some of our colleagues and friends are undergoing. In consultation with the SIGDAT board, we have taken the hard decision of not extending the submission deadline. In this post, we would like to provide details about the reasons that brought us to this decision.

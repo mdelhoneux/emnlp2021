@@ -21,6 +21,7 @@ const WorkshopListing = ({ title, summary, authors, url, numDays }) => (
 
 const WorkshopsForDate = ({ date, workshops }) => (
   <section className="events-for-date">
+    <h2>{date}</h2>
     <section className="workshops">
       {workshops.map(w => <WorkshopListing {...w} key={w.workshopId} />)}
     </section>

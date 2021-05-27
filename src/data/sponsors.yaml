@@ -26,8 +26,10 @@
   sponsors: 
     - name: Duolingo
       link: https://research.duolingo.com
-    - name: NAVER
+    - name: Naver Lab Europe
       link: https://europe.naverlabs.com/ 
+    - name: Naver Corporation
+      link: https://www.navercorp.com/en/
 - levelName: Bronze
   sponsors:
     - name: Babelscape
@@ -40,3 +42,13 @@
   sponsors:
       - name: Microsoft
         link: https://www.microsoft.com
+      - name: Google
+        link: https://research.google
+- levelName: "Diversity and Inclusion: Supporter"
+  sponsors:
+      - name: Adobe
+        link: https://research.adobe.com/
+- levelName: "Diversity and Inclusion: Ally"
+  sponsors:
+      - name: Morgan Stanley
+        link: https://www.morganstanley.com/

@@ -70,7 +70,7 @@ Reviewing will be single-blind, so authors do not need to conceal their identity
 
 ## Demo Details
 
-As the conference will be hybrid, all the demos will have to be presented online via a video conference tool. Therefore, we strongly recommend all demos are provided via one of the following formats: (1) A live demo website; or (2) A website with a downloadable installation package of the demo; unless this is impossible because some special hardware is required or access is otherwise limited. The exact details of the demo session are still to be worked out and will be announced in due time.
+As the conference will be hybrid, we strongly recommend all demos are provided via one of the following formats: (1) A live demo website; or (2) A website with a downloadable installation package of the demo; unless this is impossible because some special hardware is required or access is otherwise limited. The exact details of the demo session are still to be worked out and will be announced in due time.
 
 You are encouraged to submit a short (~2 minute) screencast video demonstrating the system together with your paper submission. This screencast will be used to evaluate the paper, but won’t be published unless requested. We encourage the authors to include visual aids (e.g., screenshots, snapshots, or diagrams) in the paper. Authors will also be able to upload and submit additional material, if needed. If you choose to submit a screencast, please upload the video to some hosting site (YouTube, Vimeo, etc.) and include the link in your paper submission. To ensure accessibility for deaf or hard-of-hearing viewers, we encourage authors to caption videos prior to submission.
 

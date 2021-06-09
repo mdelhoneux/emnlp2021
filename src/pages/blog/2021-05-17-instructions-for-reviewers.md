@@ -2,6 +2,9 @@
 templateKey: blog-post-page
 title: "Instructions for Reviewers"
 date: 2021-05-17
+updated: 
+    - date: 2021-06-09
+      details: updated
 seo:
   title: "Instructions for Reviewers"
   description: >- 
@@ -44,6 +47,9 @@ We adapted the review form from [EMNLP 2020](https://2020.emnlp.org/files/EMNLP2
 6. Confidential Information: Your answers to questions in this section will not be shared with the authors. 
     * **Confidential Comments to the Area Chair and Peer Reviewers:** If you want to share some information with the area chair (meta-reviewer) and other reviewers, please state it here.
     * **Confidential Comments to Senior Area Chairs and PC Chairs:** Use this box for information that you only want to share with the senior area chairs and program chairs.
+
+## Approach
+Please take a balanced approach when reading these papers. One objective is to have a solid technical program; hence, it is important to be thorough. On the other hand, we also want a broad and interesting program - so please do not be picky. You were selected to serve on the committee because you are a respected contributor to your field. You probably received papers that are not up to your personal standards. Some may still have technical merit, and could be interesting to others. Please try to keep an open mind. Don't get hung up about recommending too many papers. If you think a paper will be interesting to attendees, then recommend it.
 
 ## Supplementary Materials
 Supplementary materials are allowed as a stand-alone document uploaded as an additional file. Supplementary materials are, as the name suggests, supplementary, and you have no obligation to read them. You should treat them like other citations in submissions that may be helpful in understanding background or details beyond the scope of the paper itself.

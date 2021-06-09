@@ -35,9 +35,9 @@ seo:
 
 ### Efficient Methods for NLP
 
-**SAC:** Jesse Dodge
+**SAC:** Jesse Dodge, Gabriel Stanovsky
 
-**ACs**: Aleksandr Drozd, Gabriel Stanovsky
+**ACs**: Aleksandr Drozd, Adhi Kuncoro, Emma Strubell, Andreas Rücklé, Benoît Sagot, Jonathan Frankle
 
 ### Generation
 
@@ -61,7 +61,7 @@ seo:
 
 **SACs**: Zack Lipton, Francesca Toni
 
-**ACs**: Leila Arras, Jasmijn Bastings, Grzegorz Chrupala, Kevin Clark, Yonatan Belinkov, Sebastian Gehrmann, Diewke Hupkes, Piyawat Lertvittayakumjorn, Anna Rogers, Naomi Saphra, Sameer Singh, Byron Wallace 
+**ACs**: Leila Arras, Jasmijn Bastings, Grzegorz Chrupala, Kevin Clark, Yonatan Belinkov, Sebastian Gehrmann, Diewke Hupkes, Piyawat Lertvittayakumjorn, Anna Rogers, Naomi Saphra, Sameer Singh, Byron Wallace , Oana Cocarascu
 
 ### Linguistic Theories, Cognitive Modeling and Psycholinguistics
 
@@ -99,11 +99,11 @@ seo:
 
 **ACs**: Jonathan Berant, Jordan Boyd-Graber, Danqi Chen, Yiming Cui, Hannaneh Hajishirzi, Robin Jia, Tushar Khot, Tom Kwiatkowski, Kenton Lee, Jimmy Lin, Minjoon Seo, Pontus Stenetorp, Alon Talmor
 
-### Resource and Evaluation
+### Resources and Evaluation
 
 **SAC:** Yvette Graham
 
-**ACs**: Barbara Plank, Ines Rehbein
+**ACs**: Barbara Plank, Ines Rehbein, Maja Popovic, Gerasimos Lampouras, Markus Freitag, Simon Mille, Ajay Nagesh, Gareth Jones
 
 ### Semantics: Lexical, Sentence level, Textual Inference and Other areas
 
@@ -133,10 +133,11 @@ seo:
 
 **SAC:** Wanxiang Che
 
-**ACs**: Liang Huang, Zhenghua Li, Anders Søgaard, Weiwei Sun, Kewei Tu
+**ACs**: Liang Huang, Zhenghua Li, Weiwei Sun, Kewei Tu
 
 ### Multidisciplinary and AC COI
 
 **SACs**: Diana Inkpen, Lluís Màrquez
 
 **ACs**: Cecilia Alm, Paul Cook, Zornitsa Kozareva, German Rigau
+

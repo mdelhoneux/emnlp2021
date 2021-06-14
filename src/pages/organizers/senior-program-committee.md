@@ -35,7 +35,7 @@ seo:
 
 ### Efficient Methods for NLP
 
-**SAC**: Jesse Dodge (<dodgejesse@gmail.com>)
+**SAC**: Jesse Dodge (<dodgejesse@gmail.com>) and Gabriel Stanovsky (<gabriel.stanovsky@mail.huji.ac.il>)
 
 **ACs**: Aleksandr Drozd, Adhi Kuncoro, Emma Strubell, Andreas Rücklé, Benoît Sagot, Jonathan Frankle
 

@@ -16,6 +16,8 @@
       link: https://www.bytedance.com/en/
     - name: Amazon
       link: https://www.amazon.science/
+    - name: DeepMind
+      link: https://deepmind.com
     - name: Baidu
       link: https://home.baidu.com/home/index
 - levelName: Gold
@@ -48,6 +50,8 @@
         link: https://www.microsoft.com
       - name: Google
         link: https://research.google
+      - name: DeepMind
+        link: https://deepmind.com
 - levelName: "Diversity and Inclusion: Supporter"
   sponsors:
       - name: Adobe

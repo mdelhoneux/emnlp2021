@@ -23,7 +23,7 @@ The only thing guests need to think about is waking up in an idyllic place and c
 
 [Video Barcelo Bavaro Grand Resort](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0)
 
-1. **HEALTH AND SAFETY**
+ **HEALTH AND SAFETY**
     * The COVID-19 situation is being monitored and the measures might be adjusted as the situation evolves.
     * The conference hotel complex is a relatively isolated all-inclusive bubble-like environment, with few people coming/going during the week except for resort-based excursions such as snorkeling/diving trips.
     * The conference will follow appropriate capacity limitations and social distancing practices for a predominantly/near-exclusively vaccinated group in the health environment as it evolves in November 2021.

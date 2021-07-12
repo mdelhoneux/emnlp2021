@@ -19,9 +19,7 @@ With its two miles of white sand in the unique and spectacular Bavaro beach, con
 
 The resort is divided into two hotels, Barcelo Bavaro Palace, dedicated and designed for families and the Barceló Bávaro Beach with a concept of "Adults Only". At the Barcelo Bavaro Palace section, you’ll find excellent cuisine with 11 restaurants to choose from, including 7 à la carte restaurants and 2 themed buffets, each a unique dining experience where you will be transported to different parts of the world, from the tradition minimalist Japanese cuisine to the exciting flavors and colors of Mexico, through the unique experiences of the Spanish or Italian cuisine, not forgetting the delicious Dominican food in a stunning buffet dedicated to this specialty, also the fun and atmosphere of a Steak House. For guests of the Barceló Bávaro Beach, two buffets and two à la carte Restaurants International and Mediterranean. Barceló Bávaro Grand Resort has received the Green Globe Certificate, a global recognition for its environmentally friendly practices. Thanks to the energy efficiency and energy savings programs it has implemented, this is a green and sustainable hotel.
 
-The only thing guests need to think about is waking up in an idyllic place and choosing between the most pleasant form of relaxation or an exciting range of activities. There is simply no other hotel in the Caribbean that matches the beauty of the Barcelo Bavaro Grand Resort !
-
-[Video Barcelo Bavaro Grand Resort](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0)
+The only thing guests need to think about is waking up in an idyllic place and choosing between the most pleasant form of relaxation or an exciting range of activities. There is simply no other hotel in the Caribbean that matches the beauty of the [Barcelo Bavaro Grand Resort](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0) !
 
 **HEALTH AND SAFETY**
 * The COVID-19 situation is being monitored and the measures might be adjusted as the situation evolves.

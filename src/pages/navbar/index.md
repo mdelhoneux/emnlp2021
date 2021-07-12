@@ -9,7 +9,6 @@ menuItems:
     linkURL: /workshops
     linkType: internal
     otherPatterns:
-    - /attending
     - /tutorials
     - /workshops
   - label: organizers

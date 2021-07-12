@@ -1,9 +1,9 @@
 ---
 templateKey: event-index-page
-title: "Committee Blog"
+title: "Event"
 seo:
   title: "EMNLP is planned to be a hybrid event"
-  description: "Blog of the EMNLP Committee"
+  description: "EMNLP is planned to be a hybrid event"
 --- 
 
 EMNLP 2021 is planned to be a hybrid event in Punta Cana, Dominican Republic, with both on-site and fully virtual participation possible.

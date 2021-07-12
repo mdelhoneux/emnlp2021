@@ -23,14 +23,14 @@ The only thing guests need to think about is waking up in an idyllic place and c
 
 [Video Barcelo Bavaro Grand Resort](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0)
 
-## HEALTH AND SAFETY
-         * The COVID-19 situation is being monitored and the measures might be adjusted as the situation evolves.
-         * The conference hotel complex is a relatively isolated all-inclusive bubble-like environment, with few people coming/going during the week except for resort-based excursions such as snorkeling/diving trips.
-         * The conference will follow appropriate capacity limitations and social distancing practices for a predominantly/near-exclusively vaccinated group in the health environment as it evolves in November 2021.
-         * All guests and hotel staff are currently thoroughly tested for COVID-19 and/or vaccinated, given that resort tourism and its health and safety is very important to the Dominican Republic economy.
-         * The other hotels in the Punta Cana area tend to also be all-inclusive resorts with currently very low incidence of infection.
-         * The closest major city to Punta Cana is 2.5 hours away (Santo Domingo), with nearly all visitors arriving directly into Punta Cana International Airport (relatively close to the hotel complex).
-         * There are multiple nearby medical facilities catering to international tourists, including 2 hospitals.
-         * Currently the international airlines flying to the island require pre-departure COVID testing and are likely to either require pre-departure COVID testing and/or proof of vaccination as warranted by global health and traveler expectations for a safe environment.
-         * The conference facilities (all ballrooms and smaller meeting rooms) are for the exclusive use of EMNLP 2021 attendees.
+**HEALTH AND SAFETY**
+    * The COVID-19 situation is being monitored and the measures might be adjusted as the situation evolves.
+    * The conference hotel complex is a relatively isolated all-inclusive bubble-like environment, with few people coming/going during the week except for resort-based excursions such as snorkeling/diving trips.
+    * The conference will follow appropriate capacity limitations and social distancing practices for a predominantly/near-exclusively vaccinated group in the health environment as it evolves in November 2021.
+    * All guests and hotel staff are currently thoroughly tested for COVID-19 and/or vaccinated, given that resort tourism and its health and safety is very important to the Dominican Republic economy.
+    * The other hotels in the Punta Cana area tend to also be all-inclusive resorts with currently very low incidence of infection.
+    * The closest major city to Punta Cana is 2.5 hours away (Santo Domingo), with nearly all visitors arriving directly into Punta Cana International Airport (relatively close to the hotel complex).
+    * There are multiple nearby medical facilities catering to international tourists, including 2 hospitals.
+    * Currently the international airlines flying to the island require pre-departure COVID testing and are likely to either require pre-departure COVID testing and/or proof of vaccination as warranted by global health and traveler expectations for a safe environment.
+    * The conference facilities (all ballrooms and smaller meeting rooms) are for the exclusive use of EMNLP 2021 attendees.
 

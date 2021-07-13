@@ -16,7 +16,7 @@ menuItems:
     linkURL: /organizers
   - label: sponsors
     linkURL: /sponsors
-  - label: venue
+  - label: event
     linkURL: /venue
   - label: home
     longLabel: Landing Page

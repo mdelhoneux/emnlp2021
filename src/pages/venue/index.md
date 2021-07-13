@@ -1,10 +1,10 @@
 ---
 templateKey: default-page
-title: Venue
+title: Event
 seo:
-  browserTitle: Venue | EMNLP 2021
+  browserTitle: Event | EMNLP 2021
   description: 
-  title: Venue | EMNLP 2021
+  title: Event | EMNLP 2021
 ---
 EMNLP 2021 is planned to be a hybrid event in Punta Cana, Dominican Republic, with both on-site and fully virtual participation possible. 
 

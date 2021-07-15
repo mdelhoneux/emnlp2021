@@ -50,10 +50,10 @@
         link: https://www.microsoft.com
       - name: Google
         link: https://research.google
+      - name: Amazon
+        link: https://www.amazon.science/
       - name: DeepMind
         link: https://deepmind.com
-      - name: Amazon
-        link：https://www.amazon.science/
 - levelName: "Diversity and Inclusion: Supporter"
   sponsors:
       - name: Adobe

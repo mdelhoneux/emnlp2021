@@ -50,8 +50,6 @@
         link: https://www.microsoft.com
       - name: Google
         link: https://research.google
-      - name: Amazon
-        link: https://www.amazon.science/
       - name: DeepMind
         link: https://deepmind.com
 - levelName: "Diversity and Inclusion: Supporter"
@@ -62,3 +60,7 @@
   sponsors:
       - name: Morgan Stanley
         link: https://www.morganstanley.com/
+- levelName: "Champion D&I"
+  sponsors: 
+      - name: Amazon
+        link: https://www.amazon.science/

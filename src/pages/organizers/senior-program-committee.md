@@ -79,7 +79,7 @@ seo:
 
 **SACs**: Alexandra Birch (<a.birch@ed.ac.uk>), Yang Feng (<fengyang@ict.ac.cn>), Ves Stoyanov (<ves@fb.com>)
 
-**ACs**: Boxing Chen, Colin Cherry, Trevor Cohn, Marta Costa-jussà, Marcello Federico, Orhan Firat, Dan Garrette, Zhongjun He, Katharina Kann, Junhui Li, Yang Liu, Qun Liu, Rico Sennrich, Taro Watanabe, Deyi Xiong, Imed Zitouni 
+**ACs**: Boxing Chen, Colin Cherry, Trevor Cohn, Marta Costa-jussà, Marcello Federico, Orhan Firat, Dan Garrette, Zhongjun He, Tong Xiao, Junhui Li, Yang Liu, Qun Liu, Rico Sennrich, Taro Watanabe, Deyi Xiong, Imed Zitouni 
 
 ### NLP Applications
 

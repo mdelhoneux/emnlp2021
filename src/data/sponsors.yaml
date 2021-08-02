@@ -20,6 +20,8 @@
       link: https://www.amazon.science/
     - name: Baidu
       link: https://home.baidu.com/home/index
+    - name: G-RESEARCH
+      link: https://www.gresearch.co.uk/
 - levelName: Gold
   sponsors:
     - name: Grammarly
@@ -44,6 +46,10 @@
       link: https://hltcoe.jhu.edu/
     - name: Adobe
       link: https://research.adobe.com/
+- levelName: Supporter
+  sponsors:
+      - name: ServiceNow
+        link: https://www.linkedin.com/company/servicenow/life/ai/
 - levelName: "Diversity and Inclusion: Champion"
   sponsors:
       - name: Microsoft
@@ -54,11 +60,13 @@
         link: https://www.amazon.science/
       - name: DeepMind
         link: https://deepmind.com
-- levelName: "Diversity and Inclusion: Supporter"
-  sponsors:
-      - name: Adobe
-        link: https://research.adobe.com/
 - levelName: "Diversity and Inclusion: Ally"
   sponsors:
       - name: Morgan Stanley
         link: https://www.morganstanley.com/
+- levelName: "Diversity and Inclusion: Contributor"
+  sponsors:
+      - name: Adobe
+        link: https://research.adobe.com/
+      - name: IBM
+        link: https://www.research.ibm.com/

@@ -34,7 +34,7 @@ Rates quoted are:
 
 <!--TODO: insert rate schedule-->
 
-![alt text](https://www.dropbox.com/sh/otegrg8iujj9ll5/AACfMdNHPwtAcKDICYx8jsOxa?dl=0&preview=BBAVGR_EXT_07.jpg)
+![alt text](./BBAVGR_EXT_07.jpg)
 Please make note that all rates shown do not include taxes, however, at the end of the booking process, taxes are added and the final contracted rate is shown. 
  
 In addition to that, cancellation is free up to one day before arrival.

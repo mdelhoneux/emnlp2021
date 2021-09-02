@@ -28,7 +28,7 @@ If you would like to see more of this wonderful resort, visit <https://www.dropb
 Barceló Bávaro Grand Resort has received the Green Globe Certificate, a global recognition for its environmentally friendly practices. Thanks to the energy efficiency and energy savings programs it has implemented, this is a green and sustainable hotel. 
 
 ## Accommodation Information:
-Accommodation has been reserved for delegates and their guests at EMNLP 2021 discounted rates. You are encouraged to secure your accommodation through one of these reservation links to ensure that you receive the negotiated rates.  Reservation button should link to
+Accommodation has been reserved for delegates and their guests at EMNLP 2021 discounted rates. It may be required that all attendees stay at the conference venue and must be vaccinated.  You are encouraged to secure your accommodation through one of these reservation links to ensure that you receive the negotiated rates. 
 
 * Barcelo Bavaro Palace:
 <https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P>

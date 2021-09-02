@@ -23,18 +23,16 @@ The resort is divided into two hotels, Barcelo Bavaro Palace, dedicated and desi
  
 Plus you are welcome to take advantage of the resort facilities which include the beach and various water sports; enjoy spectacular shows to Caribbean rhythms and a nightclub; bowling, golf, shopping and multiple pools,or relax in the modern facilities of its center of beauty and wellness,  just to name some of the things offered to delight each visitor.  And childcare can also be arranged if needed.
 
-If you would like to see more of this wonderful resort, visit <https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0> and <https://www.dropbox.com/s/a39cj8apwb5486j/Bavaro%20Sports.mov?dl=0>
+If you would like to see more of this wonderful resort, visit [this video](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0) and [this video](https://www.dropbox.com/s/a39cj8apwb5486j/Bavaro%20Sports.mov?dl=0).
 
 Barceló Bávaro Grand Resort has received the Green Globe Certificate, a global recognition for its environmentally friendly practices. Thanks to the energy efficiency and energy savings programs it has implemented, this is a green and sustainable hotel. 
 
 ## Accommodation Information:
 Accommodation has been reserved for delegates and their guests at EMNLP 2021 discounted rates. It may be required that all attendees stay at the conference venue and must be vaccinated.  You are encouraged to secure your accommodation through one of these reservation links to ensure that you receive the negotiated rates. 
 
-* Barcelo Bavaro Palace:
-<https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P>
+* [Barcelo Bavaro Palace](https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P)
  
-* Barcelo Bavaro Beach:
-<https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B>
+* [Barcelo Bavaro Beach](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B)
  
 If you would like to link up with another attendee to share costs, please watch this site for further information.
 

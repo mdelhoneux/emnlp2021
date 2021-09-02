@@ -202,7 +202,7 @@ If you have any questions about EC reviews or the changes required by EC, you ca
 
 ### Where do supplemental materials go?
 
-Supplemental material contains material such as data, software, all other material and is uploaded separately as zip files. The maximum size of a zip file is **20MB**.
+Supplemental material contains software and data uploaded separately as zip files. The maximum size of a zip file is **20MB**.
 
 ### Do I need to submit latex source files?
 
@@ -219,9 +219,9 @@ You must submit the final version of your paper by **September 9, 2021** (11:59p
 If you have any questions about:
 
 *   the camera-ready version including running the aclpub_check package: please contact our [publication chairs](https://2021.emnlp.org/organizers#pubchairs).
-*   the EAC issues and additional document in Part D: please contact the [EAC chairs](https://2021.emnlp.org/organizers#ethicschairs)
+*   the EC issues and additional document in Part D: please contact the [EC chairs](https://2021.emnlp.org/organizers#ethicschairs)
 
-Please do NOT contact EMNLP PCs unless your questions cannot be answered by the publication chairs or the EAC committee.
+Please do NOT contact EMNLP PCs unless your questions cannot be answered by the publication chairs or the EC committee.
 
 Appendix: Checking the format with the aclpub_check package
 

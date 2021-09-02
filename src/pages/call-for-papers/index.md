@@ -9,6 +9,7 @@ seo:
 
 * **The [call for system demonstrations](/call-for-papers/demos) is also available**
 * **Information about the [style files and formatting](/call-for-papers/style-and-formatting)**
+* **Authors may now wish to view [instructions for camera-ready papers](/call-for-papers/camera-ready)**
 
 ## Overview
 

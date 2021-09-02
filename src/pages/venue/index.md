@@ -1,11 +1,19 @@
 ---
-templateKey: default-mdx-page
+templateKey: default-page
 title: Venue and accomodations
-images: bavaro
 seo:
   browserTitle: Venue and accomodations | EMNLP 2021
   title: Venue and accomodations | EMNLP 2021
 ---
+
+## Venue
+![Picture of the beach with a Bavaro Beach sign and palm trees](/img/BBAVGR_EXT_07.jpg)
+![Picture of a beach with palm trees](/img/BBAVGR_RRSS_54.jpg)
+![Picture of the convention centre from the sky](/img/BBAVGR_VIEW_41.jpg)
+![Picture of a beach, palm trees and swimming pools](/img/BBAVGR_VIEW_42.jpg)
+![Picture of a beach, palm trees and swimming pools](/img/BBAVGR_VIEW_46.jpg)
+![Picture of a train in front of the Bavaro Beach sign and palm trees in the background](/img/BBAVP_EXT_04_low.jpg)
+
 The physical conference venue is the Barceló Bávaro Convention Centre in the Dominican Republic. A small train will stop periodically throughout the resort to take you from one space to another or take a relaxing stroll along the beach to other parts of the resort.
 
 With its two miles of white sand in the unique and spectacular Bavaro beach, considered one of the top ten best beaches in the world, the Barceló Bávaro Grand Resort is one of the largest, most complete all-inclusive resort complexes in the Caribbean, with two hotels (the Barceló Bávaro Palace and Barceló Bávaro Beach - Adults Only) plus a surprising list of attractions and amenities located on the property.
@@ -32,9 +40,34 @@ If you would like to link up with another attendee to share costs, please watch 
 
 Rates quoted are:
 
-<!--TODO: insert rate schedule-->
-
-![alt text](./BBAVGR_EXT_07.jpg)
+<!-- TODO: I need to get a proper alt for this-->
+![Rates of rooms](/img/rates.jpg)
 Please make note that all rates shown do not include taxes, however, at the end of the booking process, taxes are added and the final contracted rate is shown. 
  
 In addition to that, cancellation is free up to one day before arrival.
+
+![Restaurant](/img/BBAVP_GAST_108_med.jpg)
+![Restaurant](/img/BBAVP_GAST_112_med.jpg)
+![Restaurant with stage in the background](/img/BBAVP_GAST_116_med.jpg)
+![Restaurant](/img/BBAVP_GAST_123_med.jpg)
+![Restaurant](/img/BBAVP_GAST_127_med.jpg)
+![Restaurant](/img/BBAVP_GAST_85_med.jpg)
+![Pool tables in a room with football t-shirts in frames and a TV showing a football game](/img/BBAVP_GAST_95_med.jpg)
+![Golf court surrounded by water](/img/BBAVP_GOLF_48_med.jpg)
+![Art consisting of people dancing and playing music in front of the barcelo hotels and resorts entrance.](/img/BBAVP_INT_100_med.jpg)
+![Couple relaxing in a sofa. Water and palm trees in the background.](/img/BBAVP_INT_59_med.jpg)
+![Italian outlet](/img/BBAVP_INT_73.jpg)
+![Bar with a piano on top and chairs surrounding it.](/img/BBAVP_INT_90_med.jpg)
+![Casino slot machines](/img/BBAVP_LIFE_107_low.jpg)
+![Stage with people in costumes dancing. The stage title reads "tropicalissimo".](/img/BBAVP_LIFE_113_med.jpg)
+![Empty night club](/img/BBAVP_LIFE_22_med.jpg)
+![Night club with people drinking cocktails and people dancing.](/img/BBAVP_LIFE_38.jpg)
+![Night club with people dancing](/img/BBAVP_LIFE_39.jpg)
+![Bowling center](/img/BBAVP_LIFE_55_med.jpg)
+![People drinking cocktails in a casino around a card game.](/img/BBAVP_LIFE_95_low.jpg)
+![Room with two large beds, a table and two sofas. A window with a balcony, with a view on palm trees and the sea.](/img/BBAVP_ROOM_142_med.jpg)
+![Room with a large bed and a sofa.](/img/BBAVP_ROOM_147_low.jpg)
+![Room with a large bed, a sofa, night tables, and an window-door open giving out on grass and a palm tree.](/img/BBAVP_ROOM_149_med.jpg)
+![Bathroom with two sinks in front of a room with two single beds in front of a balcony with a table and chairs giving out on a palm tree and grass.](/img/BBAVP_ROOM_152_med.jpg)
+![Sailing boats on the sea.](/img/BBAVP_SPO_22.jpg)
+![Sky view of the convention centre with a lot of palm trees and the beach.](/img/BBAVP_VIEW_52_low.jpg)

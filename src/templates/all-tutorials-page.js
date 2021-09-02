@@ -28,18 +28,20 @@ const PhotoGallery = ({authors, images}) => (
     </div>
 )
 
-const TutorialListing = ({tutorialNumber, title, authors, abstract, materials, images}) => (
+const TutorialListing = ({softconfNumber, tutorialNumber, kind, title, authors, abstract, materials, images}) => (
     <article className="event-listing" id={tutorialNumber}>
-      <h3>{title}</h3>
+     <h3>{softconfNumber}: {title}</h3>
       <div className="event-organizers">{authors.join(', ')}</div>
       <PhotoGallery authors={authors} images={images}/>
       <div className="event-abstract">{abstract}</div>
       {materials ? <CourseMaterialsLink link={materials}/> : null}
+    <div className="event-duration">{kind} </div> 
     </article>
 );
 
 const TutorialsForDate = ({date, tutorials, images}) => (
     <section className="events-for-date">
+    <h2>{date}</h2>
       <section className="tutorials">
         {tutorials.map(t => <TutorialListing {...t} key={t.tutorialNumber} images={images}/>)}
       </section>
@@ -76,13 +78,15 @@ const AllTutorialsPage = ({data, location}) => {
       allTutorialDetails.map(({details}) => [simpleTitle(details.title), details]))
   const { images } = tutorialImages
   
-  const augmentWithDetails = ({authors, tutorialNumber, title}) => {
+  const augmentWithDetails = ({authors, tutorialNumber, title, softconfNumber, kind}) => {
     const {abstract, materials} = tuteDetailsBySlug[simpleTitle(title)]
     
     return {
       authors: authors.split(', '),
       title,
       tutorialNumber,
+      softconfNumber,
+      kind,
       abstract,
       materials
     }
@@ -132,6 +136,8 @@ export const allTutorialsPageQuery = graphql`
           tutorialNumber
           title
           date(formatString: "MMMM D, YYYY")
+          kind
+          softconfNumber
         }
       }
     }

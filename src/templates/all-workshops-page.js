@@ -8,11 +8,12 @@ import PageHelmet from "../components/PageHelmet";
 import StandardPageTemplate from "../components/StandardPageTemplate";
 import "../styles/all-events-page.scss";
 
-const WorkshopListing = ({ title, summary, authors, url, numDays }) => (
+const WorkshopListing = ({ title, summary, authors, url, numDays, workshopNumber, kind }) => (
   <article className="event-listing">
-    <h3><a href={url}>{title}</a></h3>
+    <h3>{workshopNumber} : <a href={url}>{title}</a></h3>
     <div className="event-organizers">{authors}</div>
     <p className="event-summary">    
+    <div className="event-duration">{kind} </div> 
       {numDays > 1 ? <div className="event-duration">{numDays} days</div> : null}
       {summary}
     </p>
@@ -21,6 +22,7 @@ const WorkshopListing = ({ title, summary, authors, url, numDays }) => (
 
 const WorkshopsForDate = ({ date, workshops }) => (
   <section className="events-for-date">
+    <h2>{date}</h2>
     <section className="workshops">
       {workshops.map(w => <WorkshopListing {...w} key={w.workshopId} />)}
     </section>
@@ -79,6 +81,7 @@ export const allWorkshopsPageQuery = graphql`
           summary
           startDate(formatString: "MMMM D, YYYY")
           numDays
+          kind
         }
       }
     }

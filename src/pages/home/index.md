@@ -11,6 +11,8 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
+  - date: 2021-09-02
+    text: "[Instructions for the camera-ready](/call-for-papers/camera-ready) have been uploaded"
   - date: 2021-08-26
     text: "Acceptance notifications have been sent out by email and final decisions on submitted papers should be visible to authors via softconf."
   - date: 2021-06-03

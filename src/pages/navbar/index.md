@@ -1,22 +1,25 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: registration
+    linkURL: /registration
   - label: blog
     linkURL: /blog
   - label: calls
     linkURL: /call-for-papers
   - label: program
-    linkURL: /workshops
+    linkURL: /program
     linkType: internal
     otherPatterns:
-    - /attending
+    - /program
     - /tutorials
     - /workshops
   - label: organizers
     linkURL: /organizers
   - label: sponsors
     linkURL: /sponsors
-  - label: event
+  - label: venue
+    longLabel: Venue and Accomodations
     linkURL: /venue
   - label: home
     longLabel: Landing Page

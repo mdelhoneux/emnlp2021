@@ -118,7 +118,7 @@ The file must be in Portable Document Format (PDF) on A4 paper. We require the u
 
 ### How do I check the format of the camera-ready version before submitting?
 
-You should check the paper format according to this instruction page and use the style template files with the links above. The NAACL2021 publication chairs have developed a package called [aclpub_check](https://github.com/yz-joey/ACLPUB/blob/master/aclpub_check/formatchecker.py) to automate much of the format checking (See the Appendix for details). Please run this package before submitting your paper to softconf in order not to miss some subtle formatting details.
+You should check the paper format according to this instruction page and use the style template files with the links above. The NAACL2021 publication chairs have developed a package called [aclpub_check](https://github.com/yz-joey/ACLPUB/blob/master/aclpub_check/formatchecker.py) to automate much of the format checking (See the Appendix for details). Please run this package before submitting your paper to softconf in order not to miss some subtle formatting details. Note: We also strongly advise authors to use [rebiber](https://github.com/yuchenlin/rebiber) to update their bib files with updated citations automatically.
 
 ### How should the final copy differ from the original submission?
 

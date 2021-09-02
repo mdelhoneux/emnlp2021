@@ -23,6 +23,6 @@ The ACL offers a discount to members from developing countries. We hope this dis
 ## Conference Cancellation Policy
 For cancellations received up to two weeks prior to the conference, registration fees will be reimbursed; ACL membership (if paid as part of the registration) is not reimbursable.
 
-<!-- TODO: add images Priscilla referred to
-![](/img/BBAVCC_CONV_21.JPG/)
--->
+![A conference room](/img/conference_room.jpg)
+![Beach](/img/beach.jpg)
+![A conference room](/img/conference_room_2.jpg)

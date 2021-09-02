@@ -2,8 +2,8 @@
 templateKey: navbar
 forSection: program
 menuItems:
-  - label: attending
-    linkURL: /attending
+  - label: program
+    linkURL: /program
   - label: workshops
     linkURL: /workshops
     linkType: internal

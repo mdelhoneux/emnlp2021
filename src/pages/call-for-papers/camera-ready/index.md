@@ -255,7 +255,7 @@ We detected 1 error and 0 warnings in your paper.
 
 Thus, we see this paper has a margin violation. The script output a png called “errors-precedent-page-1.png” which you can see below:
 
-![c1](Instruction%20for%20Camera-Ready%20Submission%20-%20ACL-IJCNLP%202021_files/c1.png)
+![c1](/img/c1.png)
 
 It shows that Josef has to shrink the first-page picture to make the paper compliant with the NAACL formatting rules. This is easily remedied with the adjustbox [https://www.ctan.org/pkg/adjustbox](https://www.ctan.org/pkg/adjustbox) package or a similar bit of LaTeX.
 
@@ -270,7 +270,7 @@ Checking lexicon.pdf
 
 This time, the automatically generated png shows me that the authors didn’t keep some math equations out of the margin in a proof in the appendix.
 
-![c2](Instruction%20for%20Camera-Ready%20Submission%20-%20ACL-IJCNLP%202021_files/c2.png)
+![c2](/img/c2.png)
 
 Here, it’s likely that the equations have to be broken over two lines.
 

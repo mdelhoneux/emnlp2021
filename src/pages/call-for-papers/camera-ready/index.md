@@ -232,13 +232,13 @@ Following NAACL 2021, we are using a package called “aclpub_check” that auto
 ## A.1: Access the package
 
 The package is written in Python and there are four steps to using it:  
-1: git clone [https://github.com/acl-org/ACLPUB](https://github.com/acl-org/ACLPUB)  
-2: cd ACLPUB  
-3: pip install -e .  
-4: python3 aclpub_check/formatchecker.py –paper_type PAPER_TYPE PAPER_NAME.pdf  
+1. `git clone` [https://github.com/yz-joey/ACLPUB](https://github.com/yz-joey/ACLPUB)
+2. `cd ACLPUB`
+3. `pip install -e . `
+4. `python3 aclpub_check/formatchecker.py –paper_type PAPER_TYPE PAPER_NAME.pdf`
 
 
-**PAPER_TYPE should be the word short or long. PAPER_NAME can be any valid file name.**
+**PAPER\_TYPE should be the word short or long. PAPER\_NAME can be any valid file name.**
 
 Below, we are walking you through how to use the tool by considering three papers published by publication chairs at NAACL 2021.
 
@@ -246,7 +246,7 @@ Below, we are walking you through how to use the tool by considering three paper
 
 First, consider Josef Valvoda’s paper “What About the Precedent: An Information-Theoretic Analysis of Common Law”
 
-> python3 aclpub_check/formatchecker.py –paper_type long precedent.pdf
+` python3 aclpub_check/formatchecker.py –paper_type long precedent.pdf`
 
 Checking precedent.pdf  
 **Error (Margin)**: An image on page 1 bleeds into the margin.
@@ -263,7 +263,7 @@ It shows that Josef has to shrink the first-page picture to make the paper compl
 
 Next, consider Tiago Pimentel and Irene Nikkarinen’s paper: “How (Non-)Optimal is the Lexicon?”
 
-> python3 aclpub_check/formatchecker.py –paper_type long lexicon.pdf
+` python3 aclpub_check/formatchecker.py –paper_type long lexicon.pdf`
 
 Checking lexicon.pdf  
 **Error (Margin)**: Text on page 13 bleeds into the margin.
@@ -278,7 +278,7 @@ Here, it’s likely that the equations have to be broken over two lines.
 
 Finally, consider Jennifer White’s paper “A Non-Linear Structural Probe”
 
-> python3 aclpub_check/formatchecker.py –paper_type short structural.pdf
+` python3 aclpub_check/formatchecker.py –paper_type short structural.pdf`
 
 Checking structural.pdf
 

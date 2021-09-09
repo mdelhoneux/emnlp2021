@@ -106,7 +106,7 @@ Before signing this form, please confirm with your co-authors (and, if applicabl
 
 ### What are the page limits?
 
-For both long and short papers, EMNLP 2021 allows one extra page to help address reviewer comments. Please use the extra space to help address reviewer comments. Long papers are permitted at most **9 pages** of text and short papers may use up to **5 pages** of text, plus unlimited space for references and the impact statement. Acknowledgements count toward the page limit.
+For both long and short papers, EMNLP 2021 allows one extra page to help address reviewer comments. Please use the extra space to help address reviewer comments. Long papers are permitted at most **9 pages** of text and short papers may use up to **5 pages** of text, plus unlimited space for ethical considerations sections, impact statement, acknowledgements, and references.
 
 ### What is the max size of the PDF file?
 

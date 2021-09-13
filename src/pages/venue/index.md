@@ -43,9 +43,9 @@ Rates quoted are:
 
 <!-- TODO: I need to get a proper alt for this-->
 ![Rates of rooms](/img/rates.jpg)
-Please make note that all rates shown do not include taxes, however, at the end of the booking process, taxes are added and the final contracted rate is shown. 
  
-In addition to that, cancellation is free up to one day before arrival.
+<br>
+<br> 
 
 ![Restaurant](/img/BBAVP_GAST_108_med.jpg)
 ![Restaurant](/img/BBAVP_GAST_112_med.jpg)

@@ -11,6 +11,12 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
+  - date: 2021-09-15
+    text: "The [form to apply for D&I subsidies](https://docs.google.com/forms/d/e/1FAIpQLSeRgYJb1fYWg45Ob40GG7DJjwrhSUslwK_FNNxn19pVc6c3FQ/view) is available. Application deadline: 1st October 2021. Notification of acceptance: 10th Oct 2021."
+  - date: 2021-09-15
+    text: "The [Call for Volunteers](https://docs.google.com/document/d/1ykorOOxuub0nijGnkgpXsyNsm-iOrJ1N9zmVslJgbKY/edit?usp=sharing) is open. Here is the [application form](https://gatech.co1.qualtrics.com/jfe/form/SV_1GI5WOZHrAawsCi).
+    Application deadline: 1st October 2021.  
+    Notification of acceptance: 10th Oct 2021."
   - date: 2021-09-02
     text: "[Instructions for the camera-ready](/call-for-papers/camera-ready) have been uploaded"
   - date: 2021-08-26

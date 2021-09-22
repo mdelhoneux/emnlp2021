@@ -9,7 +9,7 @@ seo:
 * [Main Conference](#main-conference)
     * [Long papers](#main-long)
     * [Short papers](#main-short)
-* [Demos](#demos)
+    * [Demos](#demos)
 * [Findings](#findings)
     * [Long papers](#findings-long)
     * [Short papers](#findings-short)
@@ -3413,7 +3413,7 @@ _Mitchell A Gordon, Kevin Duh and Jared Kaplan_
 
 
 <span id="demos"></span>
-## System demonstration papers
+### System demonstration papers
 
 **MiSS: An Assistant for Multi-Style Simultaneous Translation**
 

@@ -9,10 +9,10 @@ seo:
 * [Main Conference](#main-conference)
     * [Long papers](#main-long)
     * [Short papers](#main-short)
+* [Demos](#demos)
 * [Findings](#findings)
     * [Long papers](#findings-long)
     * [Short papers](#findings-short)
-* [Demos](#demos)
 
 <span id="main-conference"></span>
 ## Main Conference
@@ -3412,7 +3412,178 @@ _Kenneth Church and Yuchen Bian_
 _Mitchell A Gordon, Kevin Duh and Jared Kaplan_
 
 
+<span id="demos"></span>
+## System demonstration papers
+
+**MiSS: An Assistant for Multi-Style Simultaneous Translation**
+
+_Zuchao Li, Kevin Parnow, Masao Utiyama, Eiichiro Sumita and Hai Zhao_
+
+**Automatic Construction of Enterprise Knowledge Base**
+
+_Junyi Chai, Yujie He, Homa Hashemi, Bing Li, Daraksha Parveen, Ranganath Kondapally and Wenjin Xu_
+
+**LightTag: Text Annotation Platform**
+
+_Tal Perry_
+
+**TransIns: Document Translation with Markup Reinsertion**
+
+_Jörg Steffen and Josef van Genabith_
+
+**ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora**
+
+_Elvis de Souza and Cláudia Freitas_
+
+**N-LTP: An Open-source Neural Language Technology Platform for Chinese**
+
+_Wanxiang Che, Yunlong Feng, Libo Qin and Ting Liu_
+
+**COMBO: State-of-the-Art Morphosyntactic Analysis**
+
+_Mateusz Klimaszewski and Alina Wróblewska_
+
+**ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19**
+
+_Bonan Min, Benjamin Rozonoyer, Haoling Qiu, Alexander Zamanian, Nianwen Xue and Jessica MacBride_
+
+**KOAS: Korean Text Offensiveness Analysis System**
+
+_San-Hee Park, Kang-Min Kim, Seonhee Cho, Jun-Hyung Park, Hyuntae Park, Hyuna Kim, Seongwon Chung and SangKeun Lee_
+
+**RepGraph: Visualising and Analysing Meaning Representation Graphs**
+
+_Jaron Cohen, Roy Cohen, Edan Toledo and Jan Buys_
+
+**Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools**
+
+_Nils Feldhus, Robert Schwarzenberg and Sebastian Möller_
+
+**LMdiff: A Visual Diff Tool to Compare Language Models**
+
+_Hendrik Strobelt, Benjamin Hoover, Arvind Satyanaryan and Sebastian Gehrmann_
+
+**Semantic Context Path Labeling for Semantic Exploration of User Reviews**
+
+_Salah Aït-Mokhtar, Caroline Brun, Yves Hoppenot and Agnes Sandor_
+
+**Beyond Accuracy: A Consolidated Tool for Visual Question Answering Benchmarking**
+
+_Dirk Väth, Pascal Tilli and Ngoc Thang Vu_
+
+**Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot**
+
+_Marilyn Walker, Vrindavan Harrison, Juraj Juraska, Lena Reed, Kevin Bowden, Wen Cui, Omkar Patil and Adwait Ratnaparkhi_
+
+**SPRING Goes Online: End-to-End AMR Parsing and Generation**
+
+_Rexhina Blloshmi, Michele Bevilacqua, Edoardo Fabiano, Valentina Caruso and Roberto Navigli_
+
+**fairseq S^2: A Scalable and Integrable Speech Synthesis Toolkit**
+
+_Changhan Wang, Wei-Ning Hsu, Yossi Adi, Adam Polyak, Ann Lee, Peng-Jen Chen, Jiatao Gu and Juan Pino_
+
+**Press Freedom Monitor: Detection of Reported Press and Media Freedom Violations in Twitter and News Articles**
+
+_Tariq Yousef, Antje Schlaf, Janos Borst, Andreas Niekler and Gerhard Heyer_
+
+**UMR-Writer: A Web Application for Annotating Uniform Meaning Representations**
+
+_Jin Zhao, Nianwen Xue, Jens Van Gysel and Jinho D. D. Choi_
+
+**TranslateLocally: Blazing-fast translation running on the local CPU**
+
+_Nikolay Bogoychev, Jelmer Van der Linde and Kenneth Heafield_
+
+**Datasets: A Community Library for Natural Language Processing**
+
+_Quentin lhoest, Albert Villanova del Moral, Yacine Jernite, Abhishek Thakur, Patrick von Platen, Suraj Patil, Julien Chaumond, Mariama Drame, Julien Plu, Lewis Tunstall, Joe Davison, Mario Šaško, Gunjan Chhablani, Bhavitvya Malik, Simon Brandeis, Teven Le Scao, Victor Sanh, Canwen Xu, Nicolas Patry, Angelina McMillan-Major, Philipp Schmid, Sylvain Gugger, Clément Delangue, Théo Matussière, Lysandre Debut, Stas Bekman, Pierric Cistac, Thibault Goehringer, Victor Mustar, François Lagunas, Alexander Rush and Thomas Wolf_
+
+**Summary Explorer: Visualizing the State of the Art in Text Summarization**
+
+_Shahbaz Syed, Tariq Yousef, Khalid Al Khatib, Stefan Jänicke and Martin Potthast_
+
+**MeetDot: Videoconferencing with Live Translation Captions**
+
+_Arkady Arkhangorodsky, Christopher Chu, Scot Fang, Yiqi Huang, Denglin Jiang, Ajay Nagesh, Boliang Zhang and Kevin Knight_
+
+**Box Embeddings: An open-source library for representation learning using geometric structures**
+
+_Tejas Chheda, Purujit Goyal, Trang Tran, Dhruvesh Patel, Michael Boratko, Shib Sankar Dasgupta and Andrew McCallum_
+
+**LexiClean: An annotation tool for rapid multi-task lexical normalisation**
+
+_Tyler Bikaun, Tim French, Melinda Hodkiewicz, Michael Stewart and Wei Liu_
+
+**T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP**
+
+_Raymond Li, Wen Xiao, Lanjun Wang, Hyeju Jang and Giuseppe Carenini_
+
+**DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning**
+
+_Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar and Parisa Kordjamshidi_
+
+**OpenFraming: Open-sourced Tool for Computational Framing Analysis of Multilingual Data**
+
+_Vibhu Bhatia, Vidya Prasad Akavoor, Sejin Paik, Lei Guo, Mona Jalal, Alyssa Smith, David Assefa Tofu, Edward Edberg Halim, Yimeng Sun, Margrit Betke, Prakash Ishwar and Derry Tanti Wijaya_
+
+**IrEne-viz: Visualizing Energy Consumption of Transformer Models**
+
+_Yash Kumar Lal, Reetu Singh, Harsh Trivedi, Qingqing Cao, Aruna Balasubramanian and Niranjan Balasubramanian_
+
+**Open-Domain Question-Answering for COVID-19 and Other Emergent Domains**
+
+_Sharon Levy, Kevin Mo, Wenhan Xiong and William Yang Wang_
+
+**Project Debater APIs: Decomposing the AI Grand Challenge**
+
+_Roy Bar-Haim, Yoav Kantor, Elad Venezian, Yoav Katz and Noam Slonim_
+
+**CroAno : A Crowd Annotation Platform for Improving Label Consistency of Chinese NER Dataset**
+
+_Baoli Zhang, zhucong li, Zhen Gan, Yubo Chen, Jing Wan, Kang Liu, Jun Zhao, Shengping Liu and Yafei Shi_
+
+**iFᴀᴄᴇᴛSᴜᴍ: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**
+
+_Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_
+
+**AMuSE-WSD: An All-in-one Multilingual System for Easy Word Sense Disambiguation**
+
+_Riccardo Orlando, Simone Conia, Fabrizio Brignone, Francesco Cecconi and Roberto Navigli_
+
+**SeqAttack: On Adversarial Attacks for Named Entity Recognition**
+
+_Walter Simoncini and Gerasimos Spanakis_
+
+**InVeRo-XL: Making Cross-Lingual Semantic Role Labeling Accessible with Intelligible Verbs and Roles**
+
+_Simone Conia, Riccardo Orlando, Fabrizio Brignone, Francesco Cecconi and Roberto Navigli_
+
+**SummerTime: Text Summarization Toolkit for Non-experts**
+
+_Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah and Dragomir Radev_
+
+**Chandler: An Explainable Sarcastic Response Generator**
+
+_Silviu Oprea, Steven Wilson and Walid Magdy_
+
+**TabPert : An Effective Platform for Tabular Perturbation**
+
+_Nupur Jain, Vivek Gupta, Anshul Rai and Gaurav Kumar_
+
+**DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature**
+
+_Abheesht Sharma, Gunjan Chhablani, Harshit Pandey and Rajaswa Patil_
+
+**FAST: Fast Annotation tool for SmarT devices**
+
+_Shunyo Kawamoto, Yu Sawai, Kohei Wakimoto and Peinan Zhang_
+
+**deepQuest-py: Large and Distilled Models for Quality Estimation**
+
+_Fernando Alva-Manchego, Abiola Obamuyide, Amit Gajbhiye, Frédéric Blain, Marina Fomicheva and Lucia Specia_
 <span id="findings"></span>
+
 ## Findings of EMNLP
 <span id="findings-long"></span>
 ### Long Papers
@@ -5117,173 +5288,3 @@ _HyeonTae Seo, Yo-Sub Han and Sang-Ki Ko_
 
 _Hannan Cao, Wenmian Yang and Hwee Tou Ng_
 
-<span id="demos"></span>
-## System demonstration papers
-
-**MiSS: An Assistant for Multi-Style Simultaneous Translation**
-
-_Zuchao Li, Kevin Parnow, Masao Utiyama, Eiichiro Sumita and Hai Zhao_
-
-**Automatic Construction of Enterprise Knowledge Base**
-
-_Junyi Chai, Yujie He, Homa Hashemi, Bing Li, Daraksha Parveen, Ranganath Kondapally and Wenjin Xu_
-
-**LightTag: Text Annotation Platform**
-
-_Tal Perry_
-
-**TransIns: Document Translation with Markup Reinsertion**
-
-_Jörg Steffen and Josef van Genabith_
-
-**ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora**
-
-_Elvis de Souza and Cláudia Freitas_
-
-**N-LTP: An Open-source Neural Language Technology Platform for Chinese**
-
-_Wanxiang Che, Yunlong Feng, Libo Qin and Ting Liu_
-
-**COMBO: State-of-the-Art Morphosyntactic Analysis**
-
-_Mateusz Klimaszewski and Alina Wróblewska_
-
-**ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19**
-
-_Bonan Min, Benjamin Rozonoyer, Haoling Qiu, Alexander Zamanian, Nianwen Xue and Jessica MacBride_
-
-**KOAS: Korean Text Offensiveness Analysis System**
-
-_San-Hee Park, Kang-Min Kim, Seonhee Cho, Jun-Hyung Park, Hyuntae Park, Hyuna Kim, Seongwon Chung and SangKeun Lee_
-
-**RepGraph: Visualising and Analysing Meaning Representation Graphs**
-
-_Jaron Cohen, Roy Cohen, Edan Toledo and Jan Buys_
-
-**Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools**
-
-_Nils Feldhus, Robert Schwarzenberg and Sebastian Möller_
-
-**LMdiff: A Visual Diff Tool to Compare Language Models**
-
-_Hendrik Strobelt, Benjamin Hoover, Arvind Satyanaryan and Sebastian Gehrmann_
-
-**Semantic Context Path Labeling for Semantic Exploration of User Reviews**
-
-_Salah Aït-Mokhtar, Caroline Brun, Yves Hoppenot and Agnes Sandor_
-
-**Beyond Accuracy: A Consolidated Tool for Visual Question Answering Benchmarking**
-
-_Dirk Väth, Pascal Tilli and Ngoc Thang Vu_
-
-**Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot**
-
-_Marilyn Walker, Vrindavan Harrison, Juraj Juraska, Lena Reed, Kevin Bowden, Wen Cui, Omkar Patil and Adwait Ratnaparkhi_
-
-**SPRING Goes Online: End-to-End AMR Parsing and Generation**
-
-_Rexhina Blloshmi, Michele Bevilacqua, Edoardo Fabiano, Valentina Caruso and Roberto Navigli_
-
-**fairseq S^2: A Scalable and Integrable Speech Synthesis Toolkit**
-
-_Changhan Wang, Wei-Ning Hsu, Yossi Adi, Adam Polyak, Ann Lee, Peng-Jen Chen, Jiatao Gu and Juan Pino_
-
-**Press Freedom Monitor: Detection of Reported Press and Media Freedom Violations in Twitter and News Articles**
-
-_Tariq Yousef, Antje Schlaf, Janos Borst, Andreas Niekler and Gerhard Heyer_
-
-**UMR-Writer: A Web Application for Annotating Uniform Meaning Representations**
-
-_Jin Zhao, Nianwen Xue, Jens Van Gysel and Jinho D. D. Choi_
-
-**TranslateLocally: Blazing-fast translation running on the local CPU**
-
-_Nikolay Bogoychev, Jelmer Van der Linde and Kenneth Heafield_
-
-**Datasets: A Community Library for Natural Language Processing**
-
-_Quentin lhoest, Albert Villanova del Moral, Yacine Jernite, Abhishek Thakur, Patrick von Platen, Suraj Patil, Julien Chaumond, Mariama Drame, Julien Plu, Lewis Tunstall, Joe Davison, Mario Šaško, Gunjan Chhablani, Bhavitvya Malik, Simon Brandeis, Teven Le Scao, Victor Sanh, Canwen Xu, Nicolas Patry, Angelina McMillan-Major, Philipp Schmid, Sylvain Gugger, Clément Delangue, Théo Matussière, Lysandre Debut, Stas Bekman, Pierric Cistac, Thibault Goehringer, Victor Mustar, François Lagunas, Alexander Rush and Thomas Wolf_
-
-**Summary Explorer: Visualizing the State of the Art in Text Summarization**
-
-_Shahbaz Syed, Tariq Yousef, Khalid Al Khatib, Stefan Jänicke and Martin Potthast_
-
-**MeetDot: Videoconferencing with Live Translation Captions**
-
-_Arkady Arkhangorodsky, Christopher Chu, Scot Fang, Yiqi Huang, Denglin Jiang, Ajay Nagesh, Boliang Zhang and Kevin Knight_
-
-**Box Embeddings: An open-source library for representation learning using geometric structures**
-
-_Tejas Chheda, Purujit Goyal, Trang Tran, Dhruvesh Patel, Michael Boratko, Shib Sankar Dasgupta and Andrew McCallum_
-
-**LexiClean: An annotation tool for rapid multi-task lexical normalisation**
-
-_Tyler Bikaun, Tim French, Melinda Hodkiewicz, Michael Stewart and Wei Liu_
-
-**T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP**
-
-_Raymond Li, Wen Xiao, Lanjun Wang, Hyeju Jang and Giuseppe Carenini_
-
-**DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning**
-
-_Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar and Parisa Kordjamshidi_
-
-**OpenFraming: Open-sourced Tool for Computational Framing Analysis of Multilingual Data**
-
-_Vibhu Bhatia, Vidya Prasad Akavoor, Sejin Paik, Lei Guo, Mona Jalal, Alyssa Smith, David Assefa Tofu, Edward Edberg Halim, Yimeng Sun, Margrit Betke, Prakash Ishwar and Derry Tanti Wijaya_
-
-**IrEne-viz: Visualizing Energy Consumption of Transformer Models**
-
-_Yash Kumar Lal, Reetu Singh, Harsh Trivedi, Qingqing Cao, Aruna Balasubramanian and Niranjan Balasubramanian_
-
-**Open-Domain Question-Answering for COVID-19 and Other Emergent Domains**
-
-_Sharon Levy, Kevin Mo, Wenhan Xiong and William Yang Wang_
-
-**Project Debater APIs: Decomposing the AI Grand Challenge**
-
-_Roy Bar-Haim, Yoav Kantor, Elad Venezian, Yoav Katz and Noam Slonim_
-
-**CroAno : A Crowd Annotation Platform for Improving Label Consistency of Chinese NER Dataset**
-
-_Baoli Zhang, zhucong li, Zhen Gan, Yubo Chen, Jing Wan, Kang Liu, Jun Zhao, Shengping Liu and Yafei Shi_
-
-**iFᴀᴄᴇᴛSᴜᴍ: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**
-
-_Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_
-
-**AMuSE-WSD: An All-in-one Multilingual System for Easy Word Sense Disambiguation**
-
-_Riccardo Orlando, Simone Conia, Fabrizio Brignone, Francesco Cecconi and Roberto Navigli_
-
-**SeqAttack: On Adversarial Attacks for Named Entity Recognition**
-
-_Walter Simoncini and Gerasimos Spanakis_
-
-**InVeRo-XL: Making Cross-Lingual Semantic Role Labeling Accessible with Intelligible Verbs and Roles**
-
-_Simone Conia, Riccardo Orlando, Fabrizio Brignone, Francesco Cecconi and Roberto Navigli_
-
-**SummerTime: Text Summarization Toolkit for Non-experts**
-
-_Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah and Dragomir Radev_
-
-**Chandler: An Explainable Sarcastic Response Generator**
-
-_Silviu Oprea, Steven Wilson and Walid Magdy_
-
-**TabPert : An Effective Platform for Tabular Perturbation**
-
-_Nupur Jain, Vivek Gupta, Anshul Rai and Gaurav Kumar_
-
-**DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature**
-
-_Abheesht Sharma, Gunjan Chhablani, Harshit Pandey and Rajaswa Patil_
-
-**FAST: Fast Annotation tool for SmarT devices**
-
-_Shunyo Kawamoto, Yu Sawai, Kohei Wakimoto and Peinan Zhang_
-
-**deepQuest-py: Large and Distilled Models for Quality Estimation**
-
-_Fernando Alva-Manchego, Abiola Obamuyide, Amit Gajbhiye, Frédéric Blain, Marina Fomicheva and Lucia Specia_

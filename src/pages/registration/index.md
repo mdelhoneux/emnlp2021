@@ -8,6 +8,8 @@ seo:
   title: Registration | EMNLP 2021
 ---
 
+Follow this <a href="https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=38770&StepNumber=1&v=MGE3ZWRjOWItYjRlYi00MWM0LWFkMjAtYmI0ZTVhMjcwYzI5" target="_blank">link</a> for registration.
+
 EMNLP 2021 is currently officially scheduled to be held in hybrid mode, online and in Punta Cana, in the Dominican Republic. We have a 2-tier registration form: one will ask if you plan to attend virtually only and this answer will present a virtual registration form and if answering that you plan to attend in-person, a separate in-person registration form will be presented.  
 <br>
 We made a great effort to provide an excellent program while keeping registration fees as low as possible for both the virtual meeting and, especially, for the in-person meeting.

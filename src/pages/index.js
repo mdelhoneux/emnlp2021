@@ -14,12 +14,25 @@ import HTMLContent from "../components/Content";
 const MAX_BLOG_POSTS = 4
 const MAX_NEWS_ITEMS = 5
 
-const NewsItem = ({ date, text }) => (
+const NewsItem = ({ date, text, link }) => {
+    //TODO: this is super hacky but I got annoyed
+    if (link != null)
+    return (
+  <tr className="news-item">
+    <td className="date">{date}</td>
+    <td className="registration-link"><a href={link} target="_blank" rel="noopener noreferrer">Registration is open.  </a> 
+    <ReactMarkdown className="news-text" source={text}/>
+    </td>
+  </tr>
+    )
+    else
+    return (
   <tr className="news-item">
     <td className="date">{date}</td>
     <td><ReactMarkdown className="news-text" source={text}/></td>
   </tr>
-)
+    )
+}
 
 const BlogPostSummary = ({ date, title, link }) => (
   <tr className="blog-item">
@@ -189,6 +202,7 @@ export const pageQuery = graphql`
             newsItems {
               date(formatString: "MMMM D, YYYY")
               text
+              link
               persist
             }
             keyDates {

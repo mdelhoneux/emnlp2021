@@ -11,6 +11,10 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
+  - date: 2021-09-23
+    text: "[Registration is open](https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=38770&StepNumber=1&v=ZTZhMjc0MzgtMzkyNS00Njc1LThiMTEtYjRlZGZhZTgxNWQ3). More information on the [registration page](/registration/)."
+  - date: 2021-09-23
+    text: "The [list of accepted papers](/papers/) has been published"
   - date: 2021-09-15
     text: "The [form to apply for D&I subsidies](https://docs.google.com/forms/d/e/1FAIpQLSeRgYJb1fYWg45Ob40GG7DJjwrhSUslwK_FNNxn19pVc6c3FQ/viewform) is available. Application deadline: 1st October 2021. Notification of acceptance: 10th Oct 2021."
   - date: 2021-09-15

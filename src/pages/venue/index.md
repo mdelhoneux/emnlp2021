@@ -14,35 +14,87 @@ seo:
 ![Picture of a beach, palm trees and swimming pools](/img/BBAVGR_VIEW_46.jpg)
 ![Picture of a train in front of the Bavaro Beach sign and palm trees in the background](/img/BBAVP_EXT_04_low.jpg)
 
-The physical conference venue is the Barceló Bávaro Convention Centre in the Dominican Republic. A small train will stop periodically throughout the resort to take you from one space to another or take a relaxing stroll along the beach to other parts of the resort.
-
-With its two miles of white sand in the unique and spectacular Bavaro beach, considered one of the top ten best beaches in the world, the Barceló Bávaro Grand Resort is one of the largest, most complete all-inclusive resort complexes in the Caribbean, with two hotels (the Barceló Bávaro Palace and Barceló Bávaro Beach - Adults Only) plus a surprising list of attractions and amenities located on the property.
- 
- 
-The resort is divided into two hotels, Barcelo Bavaro Palace, dedicated and designed for families and the Barceló Bávaro Beach with a concept of "Adults Only". At the Barcelo Bavaro Palace section, you’ll find excellent cuisine with 11 restaurants to choose from, including 7 à la carte restaurants and 2 themed buffets, each a unique dining experience where you will be transported to different parts of the world, from the tradition minimalist Japanese cuisine to the exciting flavors and colors of Mexico, through the unique experiences of the Spanish or Italian cuisine, not forgetting the delicious Dominican food in a stunning buffet dedicated to this specialty, also the fun and atmosphere of a Steak House. For guests of the Barceló Bávaro Beach, two buffets and two à la carte Restaurants International and Mediterranean are located nearby but, of course, everyone can enjoy any of the restaurants.
- 
-Plus you are welcome to take advantage of the resort facilities which include the beach and various water sports; enjoy spectacular shows to Caribbean rhythms and a nightclub; bowling, golf, shopping and multiple pools,or relax in the modern facilities of its center of beauty and wellness,  just to name some of the things offered to delight each visitor.  And childcare can also be arranged if needed.
-
+The physical conference venue is the Barceló Bávaro Convention Centre in the Dominican Republic. A small train will stop periodically throughout the resort to take you from one space to another or take a relaxing stroll along the beach to other parts of the resort. With its two miles of white sand in the unique and spectacular Bavaro beach, considered one of the top ten best beaches in the world, the Barceló Bávaro Grand Resort is one of the largest, most complete all-inclusive resort complexes in the Caribbean, with two hotels (the Barceló Bávaro Palace and Barceló Bávaro Beach - Adults Only) plus a surprising list of attractions and amenities located on the property.  
+<br> 
+The resort is divided into two hotels, Barcelo Bavaro Palace, dedicated and designed for families and the Barceló Bávaro Beach with a concept of "Adults Only". At the Barcelo Bavaro Palace section, you’ll find excellent cuisine with 11 restaurants to choose from, including 7 à la carte restaurants and 2 themed buffets, each a unique dining experience where you will be transported to different parts of the world, from the tradition minimalist Japanese cuisine to the exciting flavors and colors of Mexico, through the unique experiences of the Spanish or Italian cuisine, not forgetting the delicious Dominican food in a stunning buffet dedicated to this specialty, also the fun and atmosphere of a Steak House. For guests of the Barceló Bávaro Beach, two buffets and two à la carte Restaurants International and Mediterranean are located nearby but, of course, everyone can enjoy any of the restaurants.  
+<br>
+Plus, if staying onsite, you are welcome to take advantage of the resort facilities which include the beach and various water sports; enjoy spectacular shows to Caribbean rhythms and a nightclub; bowling, golf, shopping and multiple pools, or relax in the modern facilities of its center of beauty and wellness, just to name some of the things offered to delight each visitor. And childcare can also be arranged if needed.  
 If you would like to see more of this wonderful resort, visit [this video](https://www.dropbox.com/s/u90akx4tx36l93i/Video%20Bavaro%20Complex.mov?dl=0) and [this video](https://www.dropbox.com/s/a39cj8apwb5486j/Bavaro%20Sports.mov?dl=0).
 
-Barceló Bávaro Grand Resort has received the Green Globe Certificate, a global recognition for its environmentally friendly practices. Thanks to the energy efficiency and energy savings programs it has implemented, this is a green and sustainable hotel. 
+Barceló Bávaro Grand Resort has received the Green Globe Certificate, a global recognition for its environmentally friendly practices. Thanks to the energy efficiency and energy savings programs it has implemented, this is a green and sustainable hotel.  
+Airfares to Punta Cana are quite a good deal during our conference dates. A sampling for our dates include:
+<!-- The table seems to assume that you need a header - I should fix this horrible layout somewhere-->
+<br> 
 
+| Departure city    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Price       | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Via             |
+|---------------	|----------------------------------------	|--------------------------------------------	|
+| Pittsburgh    	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $279 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via Spirit     	|
+| Boston        	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $393 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via American   	|
+| San Francisco 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $390 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via United     	|
+| London        	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $584 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via Air France 	|
+| Brussels      	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $587 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via Air Canada 	|
+| Berlin        	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp $587 RT 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp via Air Canada 	|
+
+<br> 
+Attendees are encouraged to fly directly into the Punta Cana International Airport (PUJ), with many nonstop flights to North American and European cities.  This is only 20 minutes away from the convention center/hotel.  
+
+COVID-19 rates in the Dominican Republic are similar to or lower than most North American and European countries.  Based on Johns Hopkins/NY Times COVID-19 statistics between August 20th to September 20th, 2021 (and roughly level trajectory):
+<br>
+
+|                    	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp DailyNewCases 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp DailyDeaths  	|
+|--------------------	|--------------------------------------------	|-----------------------------------------------|
+| Dominican Republic 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 24/million    	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 0.27/million 	|
+| USA                	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 462/million   	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 3.86/million 	|
+| Canada             	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 74/million    	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 0.31/million 	|
+| UK                 	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 506/million   	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 1.64/million 	|
+| Germany            	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 106/million   	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 0.25/million 	|
+| Belgium            	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 184/million   	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp 0.55/million 	|
+
+<br> 
+
+Also, the above already comparatively low Dominican Republic rates are for the country as a whole, which includes the 4+ hour away large urban center, while the all-inclusive and relatively isolated and affluent resort enclave of Punta Cana with its own direct-flight international airport has even lower rates.
+
+In an effort to provide a safer in-person conference experience, we will require that in-person conference attendees be vaccinated against COVID-19 in a very high percentage of cases (and tested multiple times if vaccination is unavailable to them or contraindicated).  Also, \*all\* attendees will be tested for COVID-19 shortly before departure for the conference (see below). The convention center will be used exclusively by EMNLP, and to reduce external exposures we are asking everyone to stay in the very-good-value all-inclusive adjacent conference resort (details and heavily discounted prices [here](#accomodation)). There is open-air access from the resort's hotel rooms to the nearby convention center, there are multiple open-air socialization spaces in the convention center, and the major celebratory social event will be fully outdoors on the beach. Together we are working to provide additional environmental protections for in-person attendees. Additional details regarding protocols and on-site participation requirements will be available here as we have more information.  
+
+<br>
+To complete your registration IF you are planning to attend the conference on-site, please submit proof of vaccination before October 31st (or before arrival for late/onsite registration), and ALSO before arrival submit the formal results of a PCR or rapid antigen COVID-19 test taken within 72 hours before departure for the conference, BOTH either by email (to acl.PatKirby@gmail.com) or by fax (to +1-570-476-8006), with the Subject lines "VACCINATION + your full name" or "COVID-TEST + your full name".  For questions, or if vaccination against COVID-19 is either contraindicated for you or unavailable in your country/region, please contact Priscilla Rasmussen at acl.rasmussen@gmail.com.  Additional details, and links to providers of inexpensive pre-departure COVID-19 test options in multiple countries will be available here.
+
+<span id="accomodation"></span>
 ## Accommodation Information:
-Accommodation has been reserved for delegates and their guests at EMNLP 2021 discounted rates.  Please make note that all EMNLP 2021 conference rates shown include taxes and cancellations are free up to seven days before arrival.  It may be required that all attendees stay at the conference venue and must be vaccinated.  
+The Barcelo Bavaro resort hotel complex is one nicest resorts in the Caribbean region, and EMNLP's negotiated heavily discounted all-inclusive rates of about $190/night for most of the large single-occupancy rooms (many including private on-balcony hot-tubs) work out to be an approximate breakdown per person of roughly only:
+
+* $100/night per resort hotel room with a long white-sand beach only minutes away
+* $60/day for 3 all-you-can-eat meals and drinks, in 10+ specialized cuisines, as well as other snacks and food options
+* $30/day for all resort amenities, e.g. free internet, snorkeling, windsurfing, 10 pools, etc.
+
+For a high-quality all-inclusive Caribbean on-beach resort, and on an absolute scale, this is a great deal.  
+<br>
+In order to enhance the COVID protection advantages of having our vaccinated attendees all meet, stay and eat together, and to substantially reduce daily hotel-external exposures,
+**<u>we are asking ALL in-person attendees to stay in the very-good-value adjacent Barceló conference hotel complex</u> unless they provide compelling reasons otherwise.**  
+<br>
+Staying elsewhere substantially increases COVID-19 risks and complicates the individual’s off-site stay while not saving much money at all.  For off-site attendees, these would be unfortunate complications:
+
+<br>
+
+1. Transportation outside the Resort and between hotels can be costly, a one-way drive may be a half hour or more and extra time would be needed to go through security at each hotel/resort.
+2. There would be a USD$ 90.00 Full Day per person (from 09:00 a.m. to 09:00 p.m.) charge. This fee applies only to the conference attendees wanting to use the installations and benefits of the resort such as restaurants, bars, entertainment, etc. (eating lunch or dinner with colleagues would only be possible with this daily fee).
+3. Financial savings, comparing this $90 daily fee to the $110 (double) or $187 (single) per person daily rate, with all-inclusive food, drink and activities means no additional financial outlay unless desired.  
+4. Time savings, convenience of staying locally, and being COVID-safe in our self-contained “Conference Bubble” as well as helping to meet the contractual obligations of the conference to offer the best all-inclusive rates possible, the benefits of staying onsite are indisputable.  
+
+<u>Please note that all EMNLP 2021 conference rates shown include taxes and cancellations are free up to seven days before arrival.   
 You must secure your accommodation through one of these reservation links to ensure that you receive the negotiated rates.
-
-
+</u>
 * [**Barcelo Bavaro Palace**](https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P)
  
 * [**Barcelo Bavaro Beach**](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B)
-
  
-If you would like to link up with another attendee to share costs, please watch this site for further information.
-
-Rates quoted are:
-
-<!-- TODO: I need to get a proper alt for this-->
 ![Rates of rooms](/img/rates.jpg)
+
+## Student Accommodation
+We also have booked a small number of rooms specifically for students at the same discounted rate of $110 per night (double) and $187 (single). To the extent possible, we encourage students to share rooms. Two advantages of making your reservation this way is that 1) the rooms are guaranteed, and 2) ability to share room costs even if you do not know someone to share with (saves $77 each per night compared to single room).  
+The ACL Office will accept your reservation request and make the reservations on your behalf. Room sharing is recommended since only a limited number of rooms are available. If you would like to share, you will need to specify the total number of people who will be sharing the room including yourself (i.e., yourself plus 1 other). Please be aware that rooms typically come with two beds so we do not recommend any more than two people since two would have to share a bed.  
+Please complete [this application](/files/2021-EMNLP-Student-Accommodation-Request-Form.docx) to make your reservation request. We will do our best to honor your request on a first-come first served basis. All requests must be received no later than **Sunday, 10 October 2021** by the ACL Office.
+<!-- TODO: I need to get a proper alt for this-->
  
 <br>
 <br> 

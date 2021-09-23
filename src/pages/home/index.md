@@ -12,8 +12,7 @@ seo:
   title: EMNLP 2021
 newsItems:
   - date: 2021-09-23
-    link: https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=38770&StepNumber=1&v=ZTZhMjc0MzgtMzkyNS00Njc1LThiMTEtYjRlZGZhZTgxNWQ3
-    text: "More information on the [registration page](/registration/)."
+    text: "Registration is now open, see [registration page](/registration/)."
   - date: 2021-09-23
     text: "The [list of accepted papers](/papers/) has been published"
   - date: 2021-09-15

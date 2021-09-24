@@ -1,6 +1,9 @@
 ---
 templateKey: navbar
 menuItems:
+  - label: underline
+    linkType: external
+    linkURL: https://underline.io/events/192/reception
   - label: registration
     linkURL: /registration
   - label: blog

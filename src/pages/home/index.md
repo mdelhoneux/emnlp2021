@@ -14,15 +14,11 @@ newsItems:
   - date: 2021-09-23
     text: "Registration is now open, see [registration page](/registration/)."
   - date: 2021-09-23
-    text: "The [list of accepted papers](/papers/) has been published"
+    text: "The [list of accepted papers](/papers/) has been published."
   - date: 2021-09-15
-    text: "The [form to apply for D&I subsidies](https://docs.google.com/forms/d/e/1FAIpQLSeRgYJb1fYWg45Ob40GG7DJjwrhSUslwK_FNNxn19pVc6c3FQ/viewform) is available. Application deadline: 1st October 2021. Notification of acceptance: 10th Oct 2021."
-  - date: 2021-09-15
-    text: "The [Call for Volunteers](https://docs.google.com/document/d/1ykorOOxuub0nijGnkgpXsyNsm-iOrJ1N9zmVslJgbKY/edit?usp=sharing) is open. Here is the [application form](https://gatech.co1.qualtrics.com/jfe/form/SV_1GI5WOZHrAawsCi).
-    Application deadline: 1st October 2021.  
-    Notification of acceptance: 10th Oct 2021."
+    text: "Information about student volunteering and applying to D&I subsidies are [here](/volunteers_and_di)."
   - date: 2021-09-02
-    text: "[Instructions for the camera-ready](/call-for-papers/camera-ready) have been uploaded"
+    text: "[Instructions for the camera-ready](/call-for-papers/camera-ready) have been uploaded."
   - date: 2021-08-26
     text: "Acceptance notifications have been sent out by email and final decisions on submitted papers should be visible to authors via softconf."
   - date: 2021-06-03

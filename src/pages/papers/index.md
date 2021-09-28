@@ -4802,7 +4802,7 @@ _Shane Storks, Qiaozi Gao, Yichi Zhang and Joyce Chai_
 
 **Making Heads and Tails of Models with Marginal Calibration for Sparse Tagsets**
 
-_Kranzlein,Nelson F. Liu and Nathan Schneider_
+_Michael Kranzlein, Nelson F. Liu and Nathan Schneider_
 
 **GeDi: Generative Discriminator Guided Decoding for Faster Controllable Sequence Generation**
 

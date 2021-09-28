@@ -26,6 +26,18 @@
   margin-top: 0.3rem;
 }
 
+.underline-link {
+  background: lightgrey;
+  color: white;
+  display: inline;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.2rem;
+  margin-right: 0.4rem;
+}
+
 .event-duration {
   background: gray;
   color: white;

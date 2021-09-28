@@ -28,14 +28,19 @@ const PhotoGallery = ({authors, images}) => (
     </div>
 )
 
-const TutorialListing = ({softconfNumber, tutorialNumber, kind, title, authors, abstract, materials, images}) => (
+const TutorialListing = ({softconfNumber, tutorialNumber, kind, title,  underlineURL, authors, abstract, materials, images}) => (
     <article className="event-listing" id={tutorialNumber}>
      <h3>{softconfNumber}: {title}</h3>
       <div className="event-organizers">{authors.join(', ')}</div>
       <PhotoGallery authors={authors} images={images}/>
       <div className="event-abstract">{abstract}</div>
       {materials ? <CourseMaterialsLink link={materials}/> : null}
+    <p className="event-summary">    
     <div className="event-duration">{kind} </div> 
+    <div className="underline-link">
+    <a href={underlineURL}>schedule</a> 
+    </div>
+    </p>
     </article>
 );
 
@@ -78,11 +83,12 @@ const AllTutorialsPage = ({data, location}) => {
       allTutorialDetails.map(({details}) => [simpleTitle(details.title), details]))
   const { images } = tutorialImages
   
-  const augmentWithDetails = ({authors, tutorialNumber, title, softconfNumber, kind}) => {
+  const augmentWithDetails = ({authors, underlineURL, tutorialNumber, title, softconfNumber, kind}) => {
     const {abstract, materials} = tuteDetailsBySlug[simpleTitle(title)]
     
     return {
       authors: authors.split(', '),
+      underlineURL,
       title,
       tutorialNumber,
       softconfNumber,
@@ -132,6 +138,7 @@ export const allTutorialsPageQuery = graphql`
     allTutorialsCsv {
       tutorialsByDate: group(field: date) {
         tutorials: nodes {
+          underlineURL
           authors
           tutorialNumber
           title

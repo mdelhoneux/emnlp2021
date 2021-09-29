@@ -1,7 +1,7 @@
-softconfNumber,tutorialNumber,title,topic,authors,kind,duration,date
-T1,1,Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection,,"Alane Suhr, Clara Vania, Nikita Nangia, Maarten Sap, Mark Yatskar, Samuel R. Bowman, Yoav Artzi",Hybrid,,2021-11-10
-T2,2,Financial Opinion Mining   ,,"Hsin-Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen",Virtual,,2021-11-10
-T3,3,Knowledge-Enriched Natural Language Generation   ,,"Wenhao Yu, Meng Jiang, Zhiting Hu, Qingyun Wang, Heng Ji, Nazneen Rajani",Hybrid,,2021-11-10
-T4,4,Multi-Domain Multilingual Question Answering   ,,"Sebastian Ruder, Avirup Sil",Hybrid,,2021-11-11
-T5,5,Robustness and Adversarial Examples in Natural Language Processing    ,,"Kai-Wei Chang, He He, Robin Jia, Sameer Singh",Hybrid ,,2021-11-11
-T6,6,Syntax in End-to-End Natural Language Processing   ,,"Hai Zhao, Rui Wang, Kehai Chen",Virtual,,2021-11-11
+softconfNumber,tutorialNumber,title,topic,authors,underlineURL,kind,duration,date
+T1,1,Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection,,"Alane Suhr, Clara Vania, Nikita Nangia, Maarten Sap, Mark Yatskar, Samuel R. Bowman, Yoav Artzi",https://underline.io/events/192/sessions?eventSessionId=7841,Hybrid,,2021-11-10
+T2,2,Financial Opinion Mining   ,,"Hsin-Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen",https://underline.io/events/192/sessions?eventSessionId=7842,Virtual,,2021-11-10
+T3,3,Knowledge-Enriched Natural Language Generation   ,,"Wenhao Yu, Meng Jiang, Zhiting Hu, Qingyun Wang, Heng Ji, Nazneen Rajani",https://underline.io/events/192/sessions?eventSessionId=7843,Hybrid,,2021-11-10
+T4,4,Multi-Domain Multilingual Question Answering   ,,"Sebastian Ruder, Avirup Sil",https://underline.io/events/192/sessions?eventSessionId=7844,Hybrid,,2021-11-11
+T5,5,Robustness and Adversarial Examples in Natural Language Processing    ,,"Kai-Wei Chang, He He, Robin Jia, Sameer Singh",https://underline.io/events/192/sessions?eventSessionId=7845,Hybrid ,,2021-11-11
+T6,6,Syntax in End-to-End Natural Language Processing   ,,"Hai Zhao, Rui Wang, Kehai Chen",https://underline.io/events/192/sessions?eventSessionId=7846,Virtual,,2021-11-11

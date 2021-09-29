@@ -8,7 +8,7 @@ import PageHelmet from "../components/PageHelmet";
 import StandardPageTemplate from "../components/StandardPageTemplate";
 import "../styles/all-events-page.scss";
 
-const WorkshopListing = ({ title, summary, authors, url, numDays, workshopNumber, kind }) => (
+const WorkshopListing = ({ title, summary, underlineURL, authors, url, numDays, workshopNumber, kind }) => (
   <article className="event-listing">
     <h3>{workshopNumber} : <a href={url}>{title}</a></h3>
     <div className="event-organizers">{authors}</div>
@@ -16,6 +16,9 @@ const WorkshopListing = ({ title, summary, authors, url, numDays, workshopNumber
     <div className="event-duration">{kind} </div> 
       {numDays > 1 ? <div className="event-duration">{numDays} days</div> : null}
       {summary}
+    <div className="underline-link">
+    <a href={underlineURL}>schedule</a> 
+    </div>
     </p>
   </article>
 );
@@ -79,6 +82,7 @@ export const allWorkshopsPageQuery = graphql`
           url
           title
           summary
+          underlineURL
           startDate(formatString: "MMMM D, YYYY")
           numDays
           kind

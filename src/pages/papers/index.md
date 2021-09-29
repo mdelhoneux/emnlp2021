@@ -2663,7 +2663,7 @@ _Vincent Micheli and Francois Fleuret_
 
 _Avia Efrat, Uri Shaham, Dan Kilman and Omer Levy_
 
-**Toward Deconfounding the Influence of Subject's Demographic Characteristics in Question Answering**
+**Toward Deconfounding the Influence of Entity Demographics for Question Answering Accuracy**
 
 _Maharshi Gor, Kellie Webster and Jordan Boyd-Graber_
 

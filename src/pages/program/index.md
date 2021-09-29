@@ -18,5 +18,5 @@ All information about the **schedule** of the main conference, tutorials and wor
 * [Main conference Day 1 - 07 Nov](https://underline.io/events/192/schedule?day=2021-11-06T23%3A00%3A00.000Z)  
 * [Main conference Day 2 - 08 Nov](https://underline.io/events/192/schedule?day=2021-11-07T23%3A00%3A00.000Z)  
 * [Main conference Day 3 - 09 Nov](https://underline.io/events/192/schedule?day=2021-11-08T23%3A00%3A00.000Z)
-* [Workshops/Satellite - 10 Nov](https://underline.io/events/192/schedule?day=2021-09-08T23%3A00%3A00.000Z)
-* [Workshops/Satellite - 11 Nov](https://underline.io/events/192/schedule?day=2021-10-08T23%3A00%3A00.000Z)
+* [Workshops/Satellite - 10 Nov](https://underline.io/events/192/schedule?day=2021-11-09T23%3A00%3A00.000Z)
+* [Workshops/Satellite - 11 Nov](https://underline.io/events/192/schedule?day=2021-11-10T23%3A00%3A00.000Z)

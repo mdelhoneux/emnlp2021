@@ -23,15 +23,20 @@ const TutorialPhoto = ({name, sharpImageData}) => (
 )
 
 const PhotoGallery = ({authors, images}) => (
+
     <div className="tutorial-author-photo-gallery">
       {authors.map(a => <TutorialPhoto name={a} sharpImageData={images.get(imageStem(a))} key={a}/>)}
     </div>
 )
 
-const TutorialListing = ({softconfNumber, tutorialNumber, kind, title,  underlineURL, authors, abstract, materials, images}) => (
+const TutorialListing = ({softconfNumber, tutorialNumber,tutorialBiosURL, kind, title,  underlineURL, authors, abstract, materials, images}) => (
     <article className="event-listing" id={tutorialNumber}>
      <h3>{softconfNumber}: {title}</h3>
-      <div className="event-organizers">{authors.join(', ')}</div>
+      <div className="event-organizers">
+          <a href={tutorialBiosURL}>
+          {authors.join(', ')}
+          </a>
+      </div>
       <PhotoGallery authors={authors} images={images}/>
       <div className="event-abstract">{abstract}</div>
       {materials ? <CourseMaterialsLink link={materials}/> : null}
@@ -85,12 +90,14 @@ const AllTutorialsPage = ({data, location}) => {
   
   const augmentWithDetails = ({authors, underlineURL, tutorialNumber, title, softconfNumber, kind}) => {
     const {abstract, materials} = tuteDetailsBySlug[simpleTitle(title)]
+    const tutorialBiosURL = `/tutorials/bios_t${tutorialNumber}`
     
     return {
       authors: authors.split(', '),
       underlineURL,
       title,
       tutorialNumber,
+      tutorialBiosURL,
       softconfNumber,
       kind,
       abstract,

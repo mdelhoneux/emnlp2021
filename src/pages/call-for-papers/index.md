@@ -7,9 +7,9 @@ seo:
   title: Call for Papers | EMNLP 2021
 ---
 
-* **The [call for system demonstrations](/call-for-papers/demos) is also available**
-* **Information about the [style files and formatting](/call-for-papers/style-and-formatting)**
-* **Authors may now wish to view [instructions for camera-ready papers](/call-for-papers/camera-ready)**
+* The [call for system demonstrations](/call-for-papers/demos) is also available
+* Information about the [style files and formatting](/call-for-papers/style-and-formatting)
+* Authors may now wish to view [instructions for camera-ready papers](/call-for-papers/camera-ready)
 * **Information about student volunteering and applying to D&I subsidies are [here](/volunteers_and_di)**
 
 ## Overview

@@ -568,7 +568,7 @@ _Shamik Roy, Maria Leonor Pacheco and Dan Goldwasser_
 
 _Minghao Wu, Yitong Li, Meng Zhang, Liangyou Li, Gholamreza Haffari and Qun Liu_
 
-**Measuring Sentence-Level and Aspect-Level Certainty in Science Communications**
+**Measuring Sentence-Level and Aspect-Level (Un)certainty in Science Communications**
 
 _Jiaxin Pei and David Jurgens_
 

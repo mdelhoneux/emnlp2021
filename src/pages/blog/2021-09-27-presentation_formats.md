@@ -2,6 +2,9 @@
 templateKey: blog-post-page
 title: "Conference and Presentation Formats"
 date: 2021-09-27
+updated: 
+    - date: 2021-10-05
+      details: updated poster instructions
 seo:
   title: "Conference and Presentation Formats"
   description: >- 
@@ -31,7 +34,7 @@ Amongst papers selected to be presented as posters, we request **all authors** t
 * One paper poster presentation for those attending the conference in person (presenters and attendees). In-person paper posters will not be streamed to remote participants. 
 * One additional virtual poster session, where posters will be presented using **Gathertown**. The idea is to maximise the number of participants who will have access to posters.   
 
-As an author, you will have received detailed instructions on how to upload your poster by email. Let us know if you haven’t received the instructions. For virtual posters, a single pdf file with no more than 20MB needs to be uploaded. For paper posters, we are waiting for confirmation from the venue and will update authors on the format in the next days.   
+As an author, you will have received detailed instructions on how to upload your poster by email. Let us know if you haven’t received the instructions. For virtual posters, a single pdf file with no more than 20MB needs to be uploaded. For paper posters, the size of the poster boards at the conference site is 92-inch (233.68 cm) in width and 46-inch (116.84 cm) in height. Please make your poster in the landscape orientation with the size no bigger than the poster board.
 
 ## Findings papers
 

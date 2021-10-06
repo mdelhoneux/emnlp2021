@@ -6,4 +6,4 @@ seo:
   description: 
   title: Organizing committee | EMNLP 2021
 ---
-_You may also be interested in the [senior program committee listing](/organizers/senior-program-committee)._
+_You may also be interested in the [senior program committee listing](/organizers/senior-program-committee) and the [ethics committee](/organizers/ethics-committee)._

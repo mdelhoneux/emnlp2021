@@ -66,12 +66,6 @@ The resort is working with IMG Hospital directly at the hotel. Different schedul
 ## Transportation and Tours:
 Global Incentive Management, a destination management company, is the official tour and transportation company for EMNLP 2021 to ensure you have a safe, stress-free start and end to your trip in Punta Cana. Avoid overpaying taxis and other travel pitfalls. With Global Incentive Management, you will experience comfortable, economical service in an air-conditioned vehicle, with our staff greeting you at the Punta Cana airport and the best provider to serve you and your guests. There will be a desk available onsite at the resort for limited hours where you can make tour and other plans. You can also find more about the fun excursions they offer and make your transportation and tour plans directly through Global Incentive Management at this site: <https://gimdmc.com/EMNLP/index.html>
 
-## Welcome Reception and Social Event:
-Get a head start on catching up with your colleagues and registering for the conference. The <u>Welcome Reception</u> will take place at the Convention Center Foyer from 18:00 to 20:00 on Saturday, November 6th. A light dinner will be provided.  
-The <u>Social Event will be a Beach Party</u> for everyone to mix and mingle and reacquaint themselves with those who have not been able to travel for the past (almost) two years. There will be dinner and entertainment and should be a lot of fun.
-
-## Childcare:
-At the present, only individual childcare can be offered. The Kids Club is still closed per local COVID-19 restrictions. Individual childcare costs are $20 USD for one hour and any additional hours are $15 USD per hour. 24 hours notice is required.
 
 <span id="accomodation"></span>
 ## Accommodation Information:
@@ -115,6 +109,13 @@ The ACL Office will accept your reservation request and make the reservations on
 Please complete [this application](/files/2021-EMNLP-Student-Accommodation-Request-Form.docx) to make your reservation request. We will do our best to honor your request on a first-come first served basis. All requests must be received no later than **Sunday, 10 October 2021** by the ACL Office.
 <!-- TODO: I need to get a proper alt for this-->
  
+## Welcome Reception and Social Event:
+Get a head start on catching up with your colleagues and registering for the conference. The <u>Welcome Reception</u> will take place at the Convention Center Foyer from 18:00 to 20:00 on Saturday, November 6th. A light dinner will be provided.  
+The <u>Social Event will be a Beach Party</u> for everyone to mix and mingle and reacquaint themselves with those who have not been able to travel for the past (almost) two years. There will be dinner and entertainment and should be a lot of fun.
+
+## Childcare:
+At the present, only individual childcare can be offered. The Kids Club is still closed per local COVID-19 restrictions. Individual childcare costs are $20 USD for one hour and any additional hours are $15 USD per hour. 24 hours notice is required.
+
 <br>
 <br> 
 

@@ -14,6 +14,7 @@ menuItems:
     - /program
     - /tutorials
     - /workshops
+    - /keynotes
   - label: organizers
     linkURL: /organizers
   - label: sponsors

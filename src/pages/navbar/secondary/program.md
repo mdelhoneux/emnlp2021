@@ -10,5 +10,8 @@ menuItems:
   - label: tutorials
     linkURL: /tutorials
     linkType: internal
+  - label: keynotes
+    linkURL: /keynotes
+    linkType: internal
 ---
 

@@ -12,7 +12,7 @@ seo:
   title: EMNLP 2021
 newsItems:
   - date: 2021-10-11
-    text: "Updates about the on-site event have been posted on the [venue page](/venue/)."
+    text: "Updates about the on-site event including information on how to book accomodations have been posted on the [venue and accomodations page](/venue/)."
   - date: 2021-09-23
     text: "Registration is now open, see [registration page](/registration/)."
   - date: 2021-09-23

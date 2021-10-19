@@ -70,6 +70,10 @@ To complete your registration IF you are planning to attend the conference on-si
 The Medical office is located at the Bavaro Palace main building and is available 24 hours a day.
 The resort is working with IMG Hospital directly at the hotel. Different schedules can be organized for testing before returning to your home countries, once better departing times and dates are known. Cost is $25 USD per test. Normally results are obtained in max. 20 minutes after the test. [Here](/img/covid_test_info.png) is information, as well as a QR code for online registration with the clinic.
 
+<span id="health"></span>
+## Other health recommendations
+Note that there may be additional health recommendations to travel to the Dominican Republic besides the covid regulations. Please check regulations and recommendations with your healthcare system and/or your airline. For example, KLM has several vaccine and other medication recommendations, see [this link](https://klmhealthservices.com/en/inentingen/dominican-republic/).
+
 ## Transportation and Tours:
 Global Incentive Management, a destination management company, is the official tour and transportation company for EMNLP 2021 to ensure you have a safe, stress-free start and end to your trip in Punta Cana. Avoid overpaying taxis and other travel pitfalls. With Global Incentive Management, you will experience comfortable, economical service in an air-conditioned vehicle, with our staff greeting you at the Punta Cana airport and the best provider to serve you and your guests. There will be a desk available onsite at the resort for limited hours where you can make tour and other plans. You can also find more about the fun excursions they offer and make your transportation and tour plans directly through Global Incentive Management at this site: <https://gimdmc.com/EMNLP/index.html>
 

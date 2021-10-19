@@ -14,9 +14,11 @@ The experience for on-site participants would closely approximate a normal pre-C
 
 All information about the **schedule** of the main conference, tutorials and workshop is available on the EMNLP [underline event](https://underline.io/events/192/reception). 
 
-
 * [Main conference Day 1 - 07 Nov](https://underline.io/events/192/schedule?day=2021-11-06T23%3A00%3A00.000Z)  
 * [Main conference Day 2 - 08 Nov](https://underline.io/events/192/schedule?day=2021-11-07T23%3A00%3A00.000Z)  
 * [Main conference Day 3 - 09 Nov](https://underline.io/events/192/schedule?day=2021-11-08T23%3A00%3A00.000Z)
 * [Workshops/Satellite - 10 Nov](https://underline.io/events/192/schedule?day=2021-11-09T23%3A00%3A00.000Z)
-* [Workshops/Satellite - 11 Nov](https://underline.io/events/192/schedule?day=2021-11-10T23%3A00%3A00.000Z)
+* [Workshops/Satellite - 11 Nov](https://underline.io/events/192/schedule?day=2021-11-10T23%3A00%3A00.000Z)  
+
+A handbook will be handed out to all in-person participants. It can also be consulted here:
+<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/ebtyf/qgas/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>

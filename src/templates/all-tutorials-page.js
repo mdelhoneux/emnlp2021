@@ -41,7 +41,6 @@ const TutorialListing = ({softconfNumber, tutorialNumber,tutorialBiosURL, kind, 
       <div className="event-abstract">{abstract}</div>
       {materials ? <CourseMaterialsLink link={materials}/> : null}
     <p className="event-summary">    
-    <div className="event-duration">{kind} </div> 
     <div className="underline-link">
     <a href={underlineURL}>schedule</a> 
     </div>

@@ -13,7 +13,6 @@ const WorkshopListing = ({ title, summary, underlineURL, authors, url, numDays, 
     <h3>{workshopNumber} : <a href={url}>{title}</a></h3>
     <div className="event-organizers">{authors}</div>
     <p className="event-summary">    
-    <div className="event-duration">{kind} </div> 
       {numDays > 1 ? <div className="event-duration">{numDays} days</div> : null}
       {summary}
     <div className="underline-link">

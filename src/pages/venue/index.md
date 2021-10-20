@@ -17,7 +17,7 @@ seo:
 
 Reserve your on-site conference hotel rooms using the links below, at the heavily-discounted special EMNLP rates:
 * [**Barcelo Bavaro Palace**](https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P)
-* [**Barcelo Bavaro Beach**](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B)
+* [**Barcelo Bavaro Beach**](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B) - SOLD OUT
 
 The physical conference venue is the Barceló Bávaro Convention Centre in the Dominican Republic. A small train will stop periodically throughout the resort to take you from one space to another or take a relaxing stroll along the beach to other parts of the resort. With its two miles of white sand in the unique and spectacular Bavaro beach, considered one of the top ten best beaches in the world, the Barceló Bávaro Grand Resort is one of the largest, most complete all-inclusive resort complexes in the Caribbean, with two hotels (the Barceló Bávaro Palace and Barceló Bávaro Beach - Adults Only) plus a surprising list of attractions and amenities located on the property. 
 <br> 
@@ -110,7 +110,7 @@ Trains: regular trains run every 10 minutes. 2 trains will be dedicated to the g
 
 Reserve your on-site conference hotel rooms using the links below, at the heavily-discounted special EMNLP rates:
 * [**Barcelo Bavaro Palace**](https://redirector.barcelo.com/?hotel=7397&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-P)
-* [**Barcelo Bavaro Beach**](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B)
+* [**Barcelo Bavaro Beach**](https://redirector.barcelo.com/?hotel=7389&rooms=1&adult=2&arrive=2021-11-02&depart=2021-11-16&promo=EMNLP2021-B) - SOLD OUT
  
 ![Rates of rooms](/img/rates.jpg)
 

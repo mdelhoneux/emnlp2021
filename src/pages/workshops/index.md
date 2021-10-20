@@ -10,3 +10,5 @@ seo:
 
 Workshop chairs: Parisa Kordjamshidi and Minlie Huang
 
+ALL Workshops are Hybrid
+

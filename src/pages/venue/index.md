@@ -117,7 +117,7 @@ Reserve your on-site conference hotel rooms using the links below, at the heavil
 ## Student Accommodation
 We also have booked a small number of rooms specifically for students at the same discounted rate of $110 per night (double) and $187 (single). To the extent possible, we encourage students to share rooms. Two advantages of making your reservation this way is that 1) the rooms are guaranteed, and 2) ability to share room costs even if you do not know someone to share with (saves $77 each per night compared to single room). 
 The ACL Office will accept your reservation request and make the reservations on your behalf. Room sharing is recommended since only a limited number of rooms are available. If you would like to share, you will need to specify the total number of people who will be sharing the room including yourself (i.e., yourself plus 1 other). Please be aware that rooms typically come with two beds so we do not recommend any more than two people since two would have to share a bed. 
-Please complete [this application](/files/2021-EMNLP-Student-Accommodation-Request-Form.docx) to make your reservation request. We will do our best to honor your request on a first-come first served basis. All requests must be received no later than **Sunday, 10 October 2021** by the ACL Office.
+Please complete [this application](/files/2021-EMNLP-Student-Accommodation-Request-Form.docx) to make your reservation request. We will do our best to honor your request on a first-come first served basis. 
 <!-- TODO: I need to get a proper alt for this-->
  
 ## Welcome Reception and Social Event:

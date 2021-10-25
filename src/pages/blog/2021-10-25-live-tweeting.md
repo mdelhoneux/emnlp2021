@@ -22,6 +22,7 @@ The form asks you:
 * The language(s) you would like to live tweet in
 * Your Twitter handle
 * EMNLP 2021 areas (two or more) you are interested in covering 
+
 The following guide on live tweeting by [Rachael Tatman](http://www.rctatman.com/Livetweeting-Guide/) could be a useful reference.
 
 ## Author Option to Opt-Out

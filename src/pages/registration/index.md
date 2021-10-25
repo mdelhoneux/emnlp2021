@@ -10,7 +10,7 @@ seo:
 
 Follow this <a href="https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=38770&StepNumber=1&v=MGE3ZWRjOWItYjRlYi00MWM0LWFkMjAtYmI0ZTVhMjcwYzI5" target="_blank">link</a> for registration.  
 **Early Registration**: Ends Friday, October 15, 2021 11:59pm ET  
-**Late Registration**: Ends for In-Person: Wednesday October, 27 2021   
+**Late Registration**: Ends for In-Person: Wednesday October 27, 2021   
 **Late Registration**: Will remain open through the end of the conference for virtual attendees
 
 <br>
@@ -39,7 +39,7 @@ The fees are:
 
 <br> 
 
-*Reminder*: It is ACL’s policy that at least one author of each accepted paper (including Finding papers) must register for the conference.  
+*Reminder*: It is ACL’s policy that at least one author of each accepted paper (including Findings papers) must register for the conference.  
 
 In an effort to provide a safer in-person conference experience, we will require that in-person conference attendees be vaccinated against COVID-19 in a very high percentage of cases (and tested multiple times if vaccination is unavailable to them or contraindicated).  Also, \*all\* attendees will be tested for COVID-19 shortly before departure for the conference (see below). The convention center will be used exclusively by EMNLP, and to reduce external exposures we are asking everyone to stay in the very-good-value all-inclusive adjacent conference resort (details and heavily discounted prices [here](/venue#accomodation)). There is open-air access from the resort's hotel rooms to the nearby convention center, there are multiple open-air socialization spaces in the convention center, and the major celebratory social event will be fully outdoors on the beach. Together we are working to provide additional environmental protections for in-person attendees. Additional information regarding protocols and on-site participation requirements will be available here as we have more details.
 

@@ -4638,7 +4638,7 @@ _Akshatha Arodi and Jackie Chi Kit Cheung_
 
 **HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning**
 
-_Mingyu Ma, Muhao Chen, Te-lin Wu and Nanyun Peng_
+_Mingyu Derek Ma, Muhao Chen, Te-Lin Wu and Nanyun Peng_
 
 **Want To Reduce Labeling Cost? GPT-3 Can Help**
 

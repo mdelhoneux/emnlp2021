@@ -21,6 +21,6 @@ All information about the **schedule** of the main conference, tutorials and wor
 * [Workshops/Satellite - 11 Nov](https://underline.io/events/192/schedule?day=2021-11-10T23%3A00%3A00.000Z)  
 
 A handbook will be handed out to all in-person participants. It can also be downloaded [here](/files/handbook-EMNLP2021.pdf) or consulted here:
-<iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/ebtyf/qgas/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe style="width:700px;height:400px" src="https://online.fliphtml5.com/ebtyf/ceby/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 [![Powered by underline](/img/powered_by_underline.png)](https://underline.io)

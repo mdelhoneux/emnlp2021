@@ -24,3 +24,12 @@ A handbook will be handed out to all in-person participants. It can also be down
 <iframe style="width:700px;height:400px" src="https://online.fliphtml5.com/ebtyf/ceby/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 [![Powered by underline](/img/powered_by_underline.png)](https://underline.io)
+
+Schedule overviews of the main conference days (from the handbook):
+
+Day 1 (7 Nov)
+![Main conference Day 1 - 07 Nov](/img/overviews/0.png)  
+Day 2 (8 Nov)
+![Main conference Day 2 - 08 Nov](/img/overviews/5-1.png)  
+Day 3 (9 Nov)
+![Main conference Day 3 - 09 Nov](/img/overviews/9-0.png)

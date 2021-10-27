@@ -1288,10 +1288,6 @@ _Ruiyang Ren, Yingqi Qu, Jing Liu, Wayne Xin Zhao, QiaoQiao She, Hua Wu, Haifeng
 
 _Zheng Yuan, Shiva Taslimipoor, Christopher Davis and Christopher Bryant_
 
-**Speaker-Oriented Latent Structures for Dialogue-Based Relation Extraction**
-
-_Guoshun Nan, Guoqing Luo, Sicong Leng, Yao Xiao and Wei Lu_
-
 **Efficient Sampling of Dependency Structure**
 
 _Ran Zmigrod, Tim Vieira and Ryan Cotterell_

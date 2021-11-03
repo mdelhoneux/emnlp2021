@@ -15,7 +15,7 @@ Recognizing that bilingual live microblogging (listening in one language, writin
 
 By coordinating community live tweeting, we hope to increase coverage of EMNLP 2021 talks. In particular, we aim at highlighting the works coming from under-represented countries so as to broaden participation in EMNLP and our associated community. Your posts will be shared/retweeted by the official conference account on Twitter and you will gain visibility in the NLP community.
 
-If you are interested in participating, please fill in the [following online form](https://forms.gle/wU3dhDLatjYSWBa17) by **November 2nd, 2021**.
+If you are interested in participating, please fill in the [following online form](https://forms.gle/wU3dhDLatjYSWBa17) by **November 4th, 2021**.
 
 The form asks you:
 * Your name, surname, email address and country

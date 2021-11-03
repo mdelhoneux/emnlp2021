@@ -10,3 +10,4 @@ seo:
 
 Tutorial chairs: Jing Jiang and Ivan Vulic
 
+ALL Tutorials are Hybrid. See [here](/files/2021-EMNLP-Tutorials-Workshops-Locations-Handout.pdf) for locations of the in-person tutorial rooms.

@@ -10,5 +10,5 @@ seo:
 
 Workshop chairs: Parisa Kordjamshidi and Minlie Huang
 
-ALL Workshops are Hybrid
+ALL Workshops are Hybrid. See [here](/files/2021-EMNLP-Tutorials-Workshops-Locations-Handout.pdf) for locations of the in-person workshop rooms.
 

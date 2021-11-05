@@ -11,6 +11,8 @@ seo:
     The 2021 Conference on Empirical Methods in Natural Language Processing
   title: EMNLP 2021
 newsItems:
+  - date: 2021-11-05
+    text: "[SemanticPaths](https://emnlp2021.semanticpaths.org/), a multilingual semantic search engine for EMNLP 2021, is online! It helps you connect the conference papers with people, research bodies, topics, areas and more!"
   - date: 2021-10-11
     text: "Updates about the on-site event including information on how to book accomodations have been posted on the [venue and accomodations page](/venue/)."
   - date: 2021-09-23

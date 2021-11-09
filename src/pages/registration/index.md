@@ -11,7 +11,7 @@ seo:
 Follow this <a href="https://ww2.eventrebels.com/er/Registration/StepRegInfo.jsp?ActivityID=38770&StepNumber=1&v=MGE3ZWRjOWItYjRlYi00MWM0LWFkMjAtYmI0ZTVhMjcwYzI5" target="_blank">link</a> for registration.  
 **Early Registration**: Ends Friday, October 15, 2021 11:59pm ET  
 **Onsite Registration**: In-Person registration will reopen Saturday evening at 5pm, November 6th and continue to be open all days during the conference. 
-**Late Registration**: Will remain open through the end of the conference for virtual attendees
+**Late Registration**: Will remain open until the 24th of November for virtual attendees and access to recordings of the conference presentations
 
 <br>
 
